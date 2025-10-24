@@ -1,0 +1,113 @@
+store_id,name,type,neighborhood,price_tier,hours_open_weekly,hours_close,lat,lon
+S1000,Kowalski's,Supermarket,Summit-University,1,119,24,44.9401,-93.3089
+S1001,Kowalski's,Supermarket,Cooper,3,84,22,44.9288,-93.2674
+S1002,Lunds & Byerlys,Supermarket,Downtown,2,84,21,45.0055,-93.3048
+S1003,Cub Foods,Supermarket,Downtown,2,168,21,44.922,-93.2033
+S1004,Cub Foods,Supermarket,Windom,2,98,24,44.9661,-93.2447
+S1005,Hy-Vee,Supermarket,,2,140,24,44.8997,-93.2882
+S1006,Hy-Vee,Supermarket,Shingle Creek,3,84,21,45.008,-93.2842
+S1007,Fresh Thyme,Supermarket,Phillips,2,98,23,44.993,-93.2944
+S1008,Hy-Vee,Supermarket,Elliot Park,2,168,22,44.9674,-93.3156
+S1009,Cub Foods,Supermarket,West Side,2,168,22,44.9711,-93.2371
+S1010,Kowalski's,Supermarket,Dayton's Bluff,3,119,24,44.9174,-93.3155
+S1011,Lunds & Byerlys,Supermarket,Downtown,2,112,23,45.0096,-93.2048
+S1012,Cub Foods,Supermarket,Seward,5,140,24,44.9319,-93.2384
+S1013,Hy-Vee,Supermarket,Northeast,3,119,22,44.9001,-93.3174
+S1014,Cub Foods,Supermarket,Holland,1,98,22,44.9696,-93.3393
+S1015,Fresh Thyme,Supermarket,Holland,2,126,24,44.9169,-93.2403
+S1016,Kowalski's,Supermarket,Stevens Square,1,112,22,44.9689,-93.2604
+S1017,Fresh Thyme,Supermarket,Marcy-Holmes,2,126,22,44.9484,-93.2131
+S1018,Hy-Vee,Supermarket,Northeast,2,112,24,44.9703,-93.219
+S1019,Cub Foods,Supermarket,Holland,2,140,21,44.8952,-93.2008
+S1020,Kowalski's,Supermarket,Phillips,2,140,21,44.9797,-93.2066
+S1021,Kowalski's,Supermarket,Kenny,2,168,21,45.0076,-93.3295
+S1022,Lunds & Byerlys,Supermarket,Victory,2,140,24,44.9568,-93.2089
+S1023,Lunds & Byerlys,Supermarket,Windom,2,-48,21,44.9205,-93.2987
+S1024,Fresh Thyme,Supermarket,Highland Park,2,126,24,44.9256,-93.2812
+S1025,Cub Foods,Supermarket,Powderhorn,1,140,24,44.9653,-93.3128
+S1026,Hy-Vee,Supermarket,Hiawatha,2,168,23,44.9964,-93.3361
+S1027,Kowalski's,Supermarket,Marcy-Holmes,2,98,22,44.9459,-93.264
+S1028,Cub Foods,Supermarket,Marcy-Holmes,2,119,21,44.8945,-93.2248
+S1029,Fresh Thyme,Supermarket,Northeast,2,140,21,44.9226,-93.2049
+S1030,Hy-Vee,Supermarket,Windom,1,126,22,44.9394,-93.2421
+S1031,Kowalski's,Supermarket,Dayton's Bluff,2,168,22,44.9854,-93.3021
+S1032,Lunds & Byerlys,Supermarket,Waite Park,2,126,21,45.0055,-93.223
+S1033,Lunds & Byerlys,Supermarket,Jordan,1,126,21,44.9188,-93.3269
+S1034,Fresh Thyme,Supermarket,Jordan,2,180,23,44.9785,-93.2624
+S1035,Speedway,Corner Market,Powderhorn,2,126,24,44.9327,-93.2339
+S1036,Holiday,Corner Market,Camden,2,168,23,44.9274,-93.2029
+S1037,Kwik Trip,Corner Market,Loring Park,3,140,23,44.9468,-93.3158
+S1038,Kwik Trip,Corner Market,Shingle Creek,2,140,23,44.9964,-93.3035
+S1039,Holiday,Corner Market,Lynnhurst,3,168,23,44.9547,-93.2442
+S1040,7-Eleven,Corner Market,Macalester-Groveland,3,126,24,44.9603,-93.2084
+S1041,Holiday,Corner Market,Linden Hills,3,112,22,44.9873,-93.2251
+S1042,Speedway,Corner Market,Holland,2,126,23,44.9148,-93.3016
+S1043,SuperAmerica,Corner Market,Como,3,126,23,44.9304,-93.2482
+S1044,SuperAmerica,Corner Market,Fulton,3,112,24,44.9238,-93.3235
+S1045,7-Eleven,Corner Market,Lowry Hill,3,112,28,44.9402,-93.2045
+S1046,SuperAmerica,Corner Market,Elliot Park,3,140,24,45.0089,-93.2822
+S1047,Holiday,Corner Market,Powderhorn,2,126,22,44.9716,-93.2364
+S1048,7-Eleven,Corner Market,Macalester-Groveland,3,112,24,44.9892,-93.2952
+S1049,Kwik Trip,Corner Market,Powderhorn,3,126,24,44.9986,-93.3272
+S1050,Speedway,Corner Market,Hiawatha,2,112,24,44.9658,-93.2772
+S1051,7-Eleven,Corner Market,Downtown,2,112,23,45.0035,-93.2306
+S1052,Speedway,Corner Market,Bottineau,3,126,24,44.943,-93.2157
+S1053,Speedway,Corner Market,Webber-Camden,3,126,24,44.9904,-93.2186
+S1054,Speedway,Corner Market,Holland,2,112,24,44.9376,-93.2151
+S1055,SuperAmerica,Corner Market,Northeast,3,112,22,44.9598,-93.2192
+S1056,7-Eleven,Corner Market,West Side,3,168,24,52.3547,-1.1743
+S1057,Speedway,Corner Market,Shingle Creek,2,126,24,44.9296,-93.2792
+S1058,7-Eleven,Corner Market,Cooper,3,140,24,44.9821,-93.2248
+S1059,Holiday,Corner Market,Uptown,3,126,24,44.935,-93.3
+S1060,Speedway,Corner Market,Folwell,2,112,24,44.8915,-93.2042
+S1061,7-Eleven,Corner Market,Phillips,3,126,22,44.8989,-93.2625
+S1062,Holiday,Corner Market,Macalester-Groveland,3,112,24,44.9653,-93.2582
+S1063,Speedway,Corner Market,Powderhorn,3,168,24,45.004,-93.2154
+S1064,Speedway,Corner Market,Victory,3,126,24,44.9126,-93.2751
+S1065,Kwik Trip,Corner Market,Uptown,3,112,22,45.0069,-93.2019
+S1066,Kwik Trip,Corner Market,Linden Hills,2,126,24,44.9877,-93.2441
+S1067,Speedway,Corner Market,Folwell,3,126,23,44.94,-93.2586
+S1068,Kwik Trip,Corner Market,West Side,3,168,22,44.8932,-93.2873
+S1069,Kwik Trip,Corner Market,Phillips,3,112,24,44.9799,-93.285
+S1070,Speedway,Corner Market,Linden Hills,2,140,24,44.8944,-93.3213
+S1071,Kwik Trip,Corner Market,Ericsson,3,112,24,45.01,-93.2005
+S1072,Speedway,Corner Market,Windom,3,126,22,44.992,-93.3054
+S1073,Kwik Trip,Corner Market,West Side,3,126,24,44.9149,-93.217
+S1074,Speedway,Corner Market,CARAG,3,126,24,44.9498,-93.2733
+S1075,7-Eleven,Corner Market,Hawthorne,3,168,24,44.9573,-93.2173
+S1076,Speedway,Corner Market,Downtown,3,126,23,44.9866,-93.2136
+S1077,Speedway,Corner Market,Fulton,3,168,22,44.9371,-93.2788
+S1078,Holiday,Corner Market,Northeast,3,140,22,44.984,-93.2845
+S1079,Kwik Trip,Corner Market,Camden,3,168,24,44.9076,-93.2103
+S1080,Kwik Trip,Corner Market,Elliot Park,3,140,24,45.0076,-93.271
+S1081,SuperAmerica,Corner Market,Highland Park,2,140,24,44.8991,-93.322
+S1082,7-Eleven,Corner Market,Standish,3,140,24,44.9118,-93.2916
+S1083,Speedway,Corner Market,Lowry Hill,3,126,24,44.9622,-93.3087
+S1084,Kwik Trip,Corner Market,Waite Park,3,168,23,44.8938,-93.2632
+S1085,Save-A-Lot,Discount,Holland,1,112,20,44.9054,-93.2938
+S1086,Aldi,Discount,Ericsson,1,126,21,44.9477,-93.2437
+S1087,Grocery Outlet,Discount,Windom,1,126,20,44.9353,-93.3396
+S1088,Aldi,Discount,West Side,1,112,22,44.9617,-93.2019
+S1089,Save-A-Lot,Discount,Como,1,98,21,44.9183,-93.2336
+S1090,Save-A-Lot,Discount,Bottineau,1,112,22,44.8944,-93.3047
+S1091,Grocery Outlet,Discount,Logan Park,1,84,21,44.9514,-93.2655
+S1092,Grocery Outlet,Discount,CARAG,1,112,20,44.9377,-93.3253
+S1093,Save-A-Lot,Discount,Hiawatha,1,98,21,44.9577,-93.2223
+S1094,Aldi,Discount,Northeast,1,126,21,44.9969,-93.2569
+S1095,Aldi,Discount,Jordan,1,112,21,44.9498,-93.3278
+S1096,Grocery Outlet,Discount,Stevens Square,1,112,21,44.9795,-93.2796
+S1097,Aldi,Discount,Armatage,1,98,22,44.9336,-93.2496
+S1098,Grocery Outlet,Discount,Como,1,84,20,45.0084,-93.2552
+S1099,Aldi,Discount,Longfellow,1,126,21,44.9083,-93.3056
+S1100,Co-op,Specialty,Como,2,70,22,44.9911,-93.3328
+S1101,Trader Joe's,Specialty,Highland Park,2,84,20,44.9591,-93.2116
+S1102,Trader Joe's,Specialty,Como,3,112,21,44.9702,-93.2099
+S1103,Whole Foods,Specialty,Northeast,3,98,20,44.9823,-93.3138
+S1104,Whole Foods,Specialty,Seward,3,84,20,44.9536,-93.241
+S1105,Whole Foods,Specialty,Seward,3,84,20,44.9539,-93.3327
+S1106,Trader Joe's,Specialty,Macalester-Groveland,3,70,22,45.0088,-93.2949
+S1107,Whole Foods,Specialty,Longfellow,3,98,22,44.9812,-93.2566
+S1108,Whole Foods,Specialty,Uptown,2,112,22,44.9897,-93.2049
+S1109,Trader Joe's,Specialty,Downtown,3,84,20,44.9117,-93.3307
+S1110,Co-op,Specialty,Como,2,70,20,44.9854,-93.3118
+S1111,Co-op,Specialty,Longfellow,3,70,21,44.9698,-93.2668

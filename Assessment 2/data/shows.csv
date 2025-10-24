@@ -1,0 +1,61 @@
+show_id,title,genre,format,seasons,episodes_total,production_cost_millions,release_year
+SH2000,The Crown Jewel,Drama,Series,5,70,1047.9,2022
+SH2001,Midnight Empire,Drama,Series,3,42,150.4,2024
+SH2002,River's Edge,Drama,Series,3,39,138.6,2023
+SH2003,The Last Kingdom,Drama,Limited Series,1,5,25.4,2020
+SH2004,Broken Trust,Drama,Series,5,55,164.4,2022
+SH2005,Northern Lights,Drama,Series,4,-12,386.8,2022
+SH2006,Family Secrets,Drama,Limited Series,1,6,38.3,2024
+SH2007,The Wire Frame,Drama,Series,5,50,704.9,2022
+SH2008,Deep Water,Drama,Series,1,11,133.3,2021
+SH2009,City of Angels,Drama,Series,2,22,146.8,2023
+SH2010,Office Hours,Comedy,Series,3,39,276.3,2020
+SH2011,Brooklyn Nine-Nine,Comedy,Limited Series,1,9,50.4,2022
+SH2012,The Good Place,Comedy,Series,0,24,141.2,2021
+SH2013,Parks and Recreation,Comedy,Limited Series,1,9,35.8,2018
+SH2014,Arrested Development,Comedy,Series,5,45,405.7,2022
+SH2015,Silicon Valley Dreams,Comedy,Limited Series,1,7,40.0,2020
+SH2016,Community Service,Comedy,Limited Series,1,4,12.3,2022
+SH2017,Happy Endings,Comedy,Series,3,30,335.7,2023
+SH2018,Scrubs,Comedy,Limited Series,1,8,61.1,2023
+SH2019,The IT Crowd,Comedy,Limited Series,1,4,24.5,2021
+SH2020,Dark Signal,Thriller,Series,5,50,1250.5,2021
+SH2021,The Stranger Within,Thriller,Series,3,36,526.8,2023
+SH2022,Night Caller,Thriller,Limited Series,1,9,49.2,2022
+SH2023,Silent Witness,Thriller,Series,2,22,74.9,2018
+SH2024,Edge of Darkness,Thriller,Series,4,48,413.3,2024
+SH2025,The Killing Hour,Thriller,Series,5,70,827.6,2020
+SH2026,Black Mirror,Thriller,Series,3,30,122.9,2024
+SH2027,True Detective,Thriller,Limited Series,1,4,14.1,2022
+SH2028,Mindhunter,Thriller,Series,4,52,701.1,2027
+SH2029,Bodyguard,Thriller,Series,1,14,193.0,2021
+SH2030,Starship Horizon,Sci-Fi,Series,1,11,94.1,2021
+SH2031,The Expanse,Sci-Fi,Series,3,24,259.0,2023
+SH2032,Blackout,Sci-Fi,Series,3,39,245.6,2022
+SH2033,Altered Carbon,Sci-Fi,Series,1,9,169.8,2021
+SH2034,Lost in Space,Sci-Fi,Series,1,12,89.0,2018
+,The OA,Sci-Fi,Series,2,22,76.3,2021
+SH2036,Stranger Things,Sci-Fi,Limited Series,1,6,49.9,2022
+SH2037,Westworld,Sci-Fi,Series,4,56,866.4,2020
+SH2038,Foundation,Sci-Fi,Limited Series,1,8,64.1,2023
+SH2039,Dark,Sci-Fi,Series,1,8,64.2,2020
+SH2040,Planet Earth,Documentary,Series,4,44,285.3,2018
+SH2041,Making a Murderer,Documentary,Series,3,33,205.7,2020
+SH2042,The Social Dilemma,Documentary,Series,2,30,-45.2,2021
+SH2043,Wild Isles,Documentary,Series,2,20,59.7,2020
+SH2044,Tiger King,Documentary,Limited Series,1,7,23.7,2020
+SH2045,Chef's Table,Documentary,Series,4,48,394.7,2023
+SH2046,Formula 1,Documentary,Series,3,30,205.9,2024
+SH2047,The Last Dance,Documentary,Limited Series,1,4,14.9,2019
+SH2048,Our Planet,Documentary,Series,4,52,66.1,2019
+SH2049,Abstract,Documentary,Series,5,45,110.4,2022
+SH2050,Love Island,Reality,Series,5,40,102.9,2018
+SH2051,The Circle,Reality,Series,4,60,376.0,2023
+SH2052,Queer Eye,Reality,Series,1,15,29.0,2021
+SH2053,Nailed It,Reality,Series,5,50,407.9,2023
+SH2054,The Great British Bake Off,Reality,Limited Series,1,9,33.6,2023
+SH2055,Selling Sunset,Romance,Series,5,75,423.8,2018
+SH2056,Too Hot to Handle,Romance,Series,4,44,356.8,2021
+SH2057,Is It Cake?,Action,Series,1,12,219.5,2022
+SH2058,The Ultimatum,Romance,Series,4,32,95.3,2021
+SH2059,Physical 100,Animation,Limited Series,1,6,23.1,2022

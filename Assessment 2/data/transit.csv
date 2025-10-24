@@ -1,0 +1,405 @@
+stop_id,neighborhood,headway_minutes,evening_service,weekend_service,distance_to_store
+T5000,Hawthorne,26.5,True,True,0.61
+T5001,Hawthorne,24.9,True,True,0.53
+T5002,Hawthorne,25.4,True,True,0.4
+T5003,Hawthorne,24.8,False,True,0.46
+T5004,Hawthorne,23.2,True,True,0.6
+T5005,Willard-Hay,25.7,False,True,0.32
+T5006,Willard-Hay,27.2,False,True,0.45
+T5007,Willard-Hay,28.8,False,True,0.29
+T5008,Willard-Hay,26.2,True,True,0.46
+T5009,Willard-Hay,28.2,True,True,0.44
+T5010,Willard-Hay,27.1,True,True,0.32
+T5011,Willard-Hay,29.3,True,True,0.41
+T5012,Jordan,22.1,True,True,0.59
+T5013,Jordan,24.8,False,True,0.59
+T5014,Jordan,21.4,False,True,0.73
+T5015,Jordan,21.6,True,False,0.58
+T5016,Jordan,26.7,True,True,0.6
+T5017,Jordan,22.3,True,True,0.77
+T5018,Jordan,22.6,True,True,0.72
+T5019,Jordan,22.5,True,True,0.76
+T5020,Jordan,23.7,False,True,0.78
+T5021,Jordan,24.1,True,True,0.79
+T5022,Near North,17.1,False,True,0.38
+T5023,Near North,17.6,True,True,0.43
+T5024,Near North,15.2,True,True,0.51
+T5025,,14.6,True,True,0.52
+T5026,Near North,14.5,True,False,0.46
+T5027,Near North,15.3,True,True,0.32
+T5028,Near North,17.5,False,True,0.29
+T5029,Camden,23.0,True,True,0.58
+T5030,Camden,20.5,True,False,0.58
+T5031,Camden,23.2,False,False,0.59
+T5032,Camden,25.2,True,True,0.49
+T5033,Camden,21.2,True,True,0.52
+T5034,Camden,23.4,True,True,0.61
+T5035,Folwell,20.8,True,True,0.7
+T5036,Folwell,16.9,False,True,0.56
+T5037,Folwell,16.2,True,True,0.54
+T5038,Folwell,19.1,False,False,0.59
+T5039,Folwell,17.7,True,True,0.55
+T5040,Folwell,17.3,True,True,0.64
+T5041,Folwell,18.3,False,True,0.56
+T5042,McKinley,30.4,True,True,0.59
+T5043,McKinley,26.6,True,True,0.53
+T5044,McKinley,25.9,False,True,0.6
+T5045,McKinley,26.1,True,False,0.46
+T5046,McKinley,25.7,True,True,0.54
+T5047,Victory,32.6,True,True,0.94
+T5048,Victory,36.3,False,True,0.97
+T5049,Webber-Camden,28.0,True,True,0.5
+T5050,Webber-Camden,-12.5,True,True,0.39
+T5051,Webber-Camden,28.1,True,True,0.44
+T5052,Webber-Camden,27.5,True,True,0.51
+T5053,Webber-Camden,31.3,True,True,0.55
+T5054,Webber-Camden,27.3,True,True,0.52
+T5055,Shingle Creek,27.9,True,True,0.92
+T5056,Shingle Creek,29.3,False,True,0.99
+T5057,Phillips,16.6,True,True,0.46
+T5058,Phillips,20.5,False,True,0.34
+T5059,Phillips,16.1,True,True,0.44
+T5060,Phillips,19.8,True,True,0.47
+T5061,Phillips,16.5,True,False,0.43
+T5062,Phillips,20.7,True,True,0.32
+T5063,Phillips,16.1,False,True,0.45
+T5064,Phillips,19.2,False,False,0.38
+T5065,Phillips,20.7,True,True,0.43
+T5066,Powderhorn,23.7,True,True,0.55
+T5067,Powderhorn,25.1,True,True,0.59
+T5068,Powderhorn,23.3,True,True,0.66
+T5069,Powderhorn,24.3,True,False,0.59
+T5070,Powderhorn,22.3,False,True,0.57
+T5071,Powderhorn,20.9,False,True,0.55
+T5072,Longfellow,19.7,True,False,0.63
+T5073,Longfellow,23.2,True,True,0.7
+T5074,Longfellow,21.7,True,True,0.57
+T5075,Longfellow,0.5,True,True,0.58
+T5076,Longfellow,17.4,True,True,0.75
+T5077,Longfellow,21.3,False,True,0.56
+T5078,Longfellow,17.8,False,False,0.61
+T5079,Longfellow,20.1,True,False,0.66
+T5080,Longfellow,18.7,True,True,0.74
+T5081,Longfellow,20.3,True,True,0.56
+T5082,Seward,21.4,True,True,0.51
+T5083,Seward,20.2,True,True,0.48
+T5084,Seward,19.5,True,True,0.6
+T5085,Seward,20.3,True,True,0.53
+T5086,Seward,21.7,True,True,0.46
+T5087,Seward,19.4,True,True,0.36
+T5088,Seward,18.5,True,True,0.58
+T5089,Seward,18.1,True,True,0.35
+T5090,Corcoran,17.3,False,True,0.31
+T5091,Corcoran,16.1,False,True,0.44
+T5092,Corcoran,17.3,True,False,0.43
+T5093,Corcoran,18.0,False,False,0.45
+T5094,Corcoran,17.5,True,True,0.5
+T5095,Corcoran,16.9,True,False,0.48
+T5096,Standish,19.0,True,False,0.76
+T5097,Standish,19.0,False,True,0.69
+T5098,Standish,20.1,True,True,0.57
+T5099,Standish,19.7,True,False,0.65
+T5100,Standish,19.8,True,True,-0.35
+T5101,Standish,24.0,True,True,0.65
+T5102,Ericsson,26.5,False,True,0.55
+T5103,Ericsson,29.6,True,True,0.56
+T5104,Ericsson,31.3,False,True,0.72
+T5105,Ericsson,26.8,True,True,0.66
+T5106,Ericsson,28.0,False,True,0.6
+T5107,Ericsson,28.7,False,True,0.54
+T5108,Ericsson,28.8,False,True,0.52
+T5109,Ericsson,27.4,True,True,0.5
+T5110,Ericsson,27.7,True,True,0.71
+T5111,Ericsson,31.7,True,True,0.58
+T5112,Howe,20.6,False,True,0.51
+T5113,Howe,23.8,True,True,0.5
+T5114,Howe,21.9,True,True,0.36
+T5115,Howe,19.6,True,True,0.44
+T5116,Howe,23.4,False,False,0.4
+T5117,Hiawatha,24.7,True,True,0.42
+T5118,Hiawatha,25.2,True,True,0.52
+T5119,Hiawatha,25.6,True,True,0.59
+T5120,Hiawatha,24.0,True,True,0.41
+T5121,Hiawatha,27.5,True,False,0.47
+T5122,Hiawatha,28.6,True,True,0.4
+T5123,Hiawatha,25.4,True,True,0.64
+T5124,Hiawatha,27.7,True,True,0.57
+T5125,Cooper,18.4,False,True,25.7
+T5126,Cooper,15.0,True,True,0.66
+T5127,Cooper,18.0,True,False,0.42
+T5128,Cooper,13.8,True,True,0.64
+T5129,Cooper,16.8,False,False,0.49
+T5130,Cooper,16.8,True,True,0.61
+T5131,Cooper,17.1,True,True,0.55
+T5132,Cooper,16.0,True,True,0.42
+T5133,Downtown,3.4,True,True,0.27
+T5134,Downtown,4.4,True,True,0.09
+T5135,Downtown,5.4,True,True,0.19
+T5136,Downtown,8.4,True,True,0.29
+T5137,Downtown,6.5,True,True,0.07
+T5138,Downtown,5.2,True,True,0.27
+T5139,Downtown,5.0,True,True,0.14
+T5140,Downtown,3.0,True,True,0.27
+T5141,Downtown,6.8,True,True,0.17
+T5142,Downtown,5.0,True,True,0.12
+T5143,Downtown,3.7,True,True,0.21
+T5144,Downtown,3.2,True,True,0.23
+T5145,Downtown,3.8,True,True,0.29
+T5146,Downtown,5.4,True,True,0.11
+T5147,Downtown,5.5,True,True,0.14
+T5148,Downtown,4.8,True,True,0.29
+T5149,North Loop,8.5,True,True,0.18
+T5150,North Loop,8.8,True,True,0.2
+T5151,North Loop,7.0,True,True,0.23
+T5152,North Loop,7.6,True,True,0.21
+T5153,North Loop,8.3,True,True,0.25
+T5154,North Loop,8.8,True,True,0.34
+T5155,North Loop,6.3,True,True,0.37
+T5156,North Loop,6.4,True,True,0.28
+T5157,North Loop,6.7,True,True,0.15
+T5158,North Loop,8.5,True,True,0.24
+T5159,North Loop,8.1,True,True,0.36
+T5160,North Loop,9.2,True,True,0.21
+T5161,North Loop,6.9,True,True,0.16
+T5162,North Loop,7.1,True,True,0.17
+T5163,North Loop,7.5,True,True,0.36
+T5164,North Loop,12.0,True,True,0.21
+T5165,North Loop,11.1,True,True,0.34
+T5166,North Loop,10.9,True,True,0.35
+T5167,North Loop,11.1,True,True,0.29
+T5168,North Loop,7.1,True,True,0.27
+T5169,North Loop,12.1,True,True,0.31
+T5170,North Loop,6.8,True,True,0.28
+T5171,North Loop,8.7,True,True,0.35
+T5172,North Loop,11.3,True,True,0.21
+T5173,North Loop,8.1,True,True,0.28
+T5174,North Loop,8.4,True,True,0.26
+T5175,North Loop,8.8,True,True,0.12
+T5176,North Loop,10.0,True,True,0.31
+T5177,North Loop,11.8,True,True,0.33
+T5178,Cedar-Riverside,14.3,True,True,0.35
+T5179,Cedar-Riverside,15.7,False,True,0.4
+T5180,Cedar-Riverside,12.0,True,True,0.22
+T5181,Cedar-Riverside,12.3,True,True,0.45
+T5182,Cedar-Riverside,12.9,True,True,0.25
+T5183,Cedar-Riverside,12.5,True,True,0.3
+T5184,Cedar-Riverside,12.7,True,True,0.37
+T5185,Cedar-Riverside,13.3,True,True,0.25
+T5186,Cedar-Riverside,11.9,True,True,0.35
+T5187,Cedar-Riverside,14.2,False,True,0.28
+T5188,Cedar-Riverside,15.6,True,True,0.36
+T5189,Cedar-Riverside,16.5,True,True,0.37
+T5190,Cedar-Riverside,12.2,True,True,0.27
+T5191,Cedar-Riverside,15.8,True,True,0.44
+T5192,Cedar-Riverside,15.5,True,True,0.29
+T5193,Cedar-Riverside,14.8,True,True,0.24
+T5194,Elliot Park,19.5,True,True,0.41
+T5195,Elliot Park,16.2,True,True,0.35
+T5196,Elliot Park,15.8,True,True,0.45
+T5197,Elliot Park,15.9,True,True,0.44
+T5198,Elliot Park,17.0,True,True,0.48
+T5199,Elliot Park,19.2,True,False,0.44
+T5200,Stevens Square,18.6,True,True,0.28
+T5201,Stevens Square,15.3,True,True,0.25
+T5202,Stevens Square,18.0,True,False,0.29
+T5203,Stevens Square,17.1,True,True,0.37
+T5204,Stevens Square,17.2,True,True,0.48
+T5205,Stevens Square,17.6,True,True,0.35
+T5206,Stevens Square,18.9,True,True,0.28
+T5207,Stevens Square,16.4,True,True,0.26
+T5208,Stevens Square,15.3,False,False,0.4
+T5209,Loring Park,13.9,False,True,0.77
+T5210,Loring Park,17.8,True,True,0.61
+T5211,Loring Park,19.0,True,True,0.74
+T5212,Loring Park,14.2,True,True,0.62
+T5213,Loring Park,16.1,True,True,0.68
+T5214,Loring Park,18.7,False,False,0.66
+T5215,Loring Park,14.8,True,True,0.79
+T5216,Loring Park,16.1,True,True,0.71
+T5217,Loring Park,17.6,True,True,0.76
+T5218,Marcy-Holmes,24.3,True,True,0.42
+T5219,Marcy-Holmes,25.9,True,False,0.57
+T5220,Marcy-Holmes,24.6,False,True,0.54
+T5221,Marcy-Holmes,27.5,True,True,0.51
+T5222,Marcy-Holmes,26.2,True,True,0.36
+T5223,Marcy-Holmes,24.0,False,True,0.36
+T5224,Marcy-Holmes,29.6,True,True,0.43
+T5225,Uptown,9.8,True,True,0.36
+T5226,Uptown,12.1,True,True,0.5
+T5227,Uptown,12.7,True,True,0.54
+T5228,Uptown,12.4,True,True,0.4
+T5229,Uptown,11.4,True,True,0.4
+T5230,Uptown,13.6,True,True,0.41
+T5231,Uptown,10.8,True,True,0.52
+T5232,Uptown,14.5,True,True,0.46
+T5233,Uptown,12.9,True,True,0.48
+T5234,Lowry Hill,15.1,True,True,0.37
+T5235,Lowry Hill,13.0,True,True,0.5
+T5236,Lowry Hill,13.6,False,False,0.61
+T5237,Lowry Hill,15.1,True,True,0.39
+T5238,Lowry Hill,17.2,True,True,0.39
+T5239,Lowry Hill,14.1,True,True,0.55
+T5240,Lowry Hill,14.5,False,False,0.48
+T5241,Lowry Hill,17.9,True,True,0.56
+T5242,Lowry Hill,14.8,False,True,0.43
+T5243,East Calhoun,26.7,True,True,0.63
+T5244,East Calhoun,29.1,False,True,0.64
+T5245,East Calhoun,29.6,True,True,0.64
+T5246,East Calhoun,28.2,False,True,0.69
+T5247,East Calhoun,23.9,True,True,0.66
+T5248,East Calhoun,29.7,False,True,0.77
+T5249,East Calhoun,25.8,True,False,0.63
+T5250,East Calhoun,24.1,True,True,0.64
+T5251,CARAG,20.2,True,True,0.6
+T5252,CARAG,20.1,True,True,0.7
+T5253,CARAG,16.7,False,True,0.75
+T5254,CARAG,22.3,True,True,0.66
+T5255,CARAG,21.3,True,True,0.67
+T5256,Lynnhurst,18.0,True,False,0.46
+T5257,Lynnhurst,16.8,True,False,0.38
+T5258,Lynnhurst,19.2,False,False,0.42
+T5259,Lynnhurst,20.4,True,True,0.58
+T5260,Lynnhurst,18.1,False,True,0.56
+T5261,Lynnhurst,19.3,True,False,0.39
+T5262,Linden Hills,20.7,True,False,0.66
+T5263,Linden Hills,23.0,True,True,0.53
+T5264,Linden Hills,24.6,True,True,0.68
+T5265,Linden Hills,21.0,True,False,0.51
+T5266,Linden Hills,22.7,True,False,0.53
+T5267,Linden Hills,24.5,True,True,0.71
+T5268,Linden Hills,25.4,True,True,0.66
+T5269,Linden Hills,25.0,True,True,0.64
+T5270,Linden Hills,23.3,False,False,0.62
+T5271,Linden Hills,25.1,False,True,0.49
+T5272,Fulton,18.7,False,True,0.48
+T5273,Fulton,19.6,False,True,0.44
+T5274,Fulton,19.3,True,True,0.36
+T5275,Fulton,20.6,False,True,0.35
+T5276,Fulton,20.4,True,True,0.38
+T5277,Fulton,20.4,True,True,0.4
+T5278,Fulton,21.0,True,False,0.46
+T5279,Fulton,19.9,True,True,0.28
+T5280,Armatage,46.6,True,True,0.68
+T5281,Armatage,46.1,True,True,0.61
+T5282,Armatage,46.4,False,True,0.74
+T5283,Kenny,35.1,False,False,0.87
+T5284,Kenny,32.7,False,True,0.99
+T5285,Windom,45.8,False,False,0.66
+T5286,Windom,47.2,True,False,0.71
+T5287,Northeast,16.8,True,True,0.55
+T5288,Northeast,16.5,True,True,0.37
+T5289,Northeast,18.3,True,True,0.53
+T5290,Northeast,19.4,True,True,0.39
+T5291,Northeast,21.5,True,True,0.37
+T5292,Northeast,17.3,False,True,0.41
+T5293,Northeast,17.4,True,True,0.54
+T5294,Northeast,16.1,True,True,0.47
+T5295,Northeast,21.2,True,True,0.39
+T5296,Northeast,17.8,True,True,0.58
+T5297,Northeast,21.5,False,True,0.49
+T5298,Northeast,18.2,True,False,0.42
+T5299,Northeast,17.3,True,True,0.52
+T5300,Northeast,18.5,True,True,0.6
+T5301,Northeast,16.4,True,True,0.39
+T5302,Northeast,20.8,True,True,0.49
+T5303,Northeast,20.9,True,True,0.53
+T5304,Bottineau,26.3,True,True,0.4
+T5305,Bottineau,22.5,False,True,0.31
+T5306,Bottineau,25.7,False,True,0.36
+T5307,Bottineau,23.3,False,True,0.53
+T5308,Bottineau,23.2,True,True,0.51
+T5309,Holland,25.1,False,True,0.5
+T5310,Holland,22.5,False,True,0.53
+T5311,Holland,20.2,False,True,0.4
+T5312,Holland,22.8,True,False,0.31
+T5313,Holland,22.1,False,True,0.48
+T5314,Holland,22.9,False,True,0.35
+T5315,Holland,23.6,True,False,0.48
+T5316,Holland,23.0,True,True,0.32
+T5317,Logan Park,26.6,True,True,0.39
+T5318,Logan Park,21.4,False,False,0.44
+T5319,Logan Park,23.1,False,False,0.54
+T5320,Logan Park,21.9,True,False,0.53
+T5321,Logan Park,24.1,False,True,0.38
+T5322,Logan Park,27.2,True,True,0.59
+T5323,Logan Park,25.3,True,False,0.37
+T5324,Logan Park,22.5,False,True,0.44
+T5325,Logan Park,23.0,True,True,0.57
+T5326,Logan Park,27.1,True,True,0.57
+T5327,Logan Park,22.7,False,True,0.55
+T5328,Waite Park,18.0,False,True,0.34
+T5329,Waite Park,14.8,True,True,0.39
+T5330,Waite Park,18.1,False,True,0.44
+T5331,Waite Park,13.9,True,True,0.42
+T5332,Waite Park,13.7,True,True,0.41
+T5333,Waite Park,19.6,True,True,0.25
+T5334,Waite Park,18.9,True,True,0.29
+T5335,Waite Park,18.3,False,False,0.34
+T5336,Waite Park,15.1,True,False,0.44
+T5337,Frogtown,29.0,True,True,0.5
+T5338,Frogtown,30.8,True,False,0.6
+T5339,Frogtown,26.3,True,True,0.57
+T5340,Frogtown,31.1,False,True,0.54
+T5341,Frogtown,31.1,False,True,0.66
+T5342,Frogtown,31.4,True,False,0.65
+T5343,Frogtown,27.3,True,True,0.69
+T5344,Summit-University,8.0,True,True,0.29
+T5345,Summit-University,9.7,True,True,0.25
+T5346,Summit-University,13.4,True,True,0.39
+T5347,Summit-University,13.3,True,True,0.22
+T5348,Summit-University,12.7,True,False,0.18
+T5349,Summit-University,13.1,True,True,0.3
+T5350,Summit-University,11.6,True,True,0.2
+T5351,Summit-University,12.0,True,True,0.38
+T5352,Summit-University,11.1,True,True,0.28
+T5353,Summit-University,12.6,True,True,0.32
+T5354,Summit-University,11.6,True,True,0.33
+T5355,West Side,23.6,False,True,0.45
+T5356,West Side,23.8,False,True,0.37
+T5357,West Side,24.6,True,True,0.48
+T5358,West Side,25.8,True,True,0.48
+T5359,West Side,24.8,True,True,0.37
+T5360,West Side,24.8,True,True,0.37
+T5361,West Side,27.3,False,False,0.27
+T5362,West Side,23.9,True,True,0.37
+T5363,Payne-Phalen,18.8,True,True,0.59
+T5364,Payne-Phalen,18.5,False,True,0.7
+T5365,Payne-Phalen,20.6,True,True,0.82
+T5366,Payne-Phalen,18.8,True,False,0.68
+T5367,Payne-Phalen,20.7,True,False,0.72
+T5368,Payne-Phalen,22.1,True,True,0.78
+T5369,Dayton's Bluff,23.0,True,True,0.75
+T5370,Dayton's Bluff,27.6,True,True,0.7
+T5371,Dayton's Bluff,26.1,True,True,0.76
+T5372,Dayton's Bluff,27.3,True,True,0.64
+T5373,Dayton's Bluff,28.1,True,True,0.68
+T5374,Dayton's Bluff,23.5,True,True,0.57
+T5375,Dayton's Bluff,27.2,False,False,0.66
+T5376,Dayton's Bluff,27.7,True,True,0.71
+T5377,Dayton's Bluff,23.3,False,False,0.63
+T5378,Dayton's Bluff,24.1,False,True,0.65
+T5379,Dayton's Bluff,25.1,True,True,0.74
+T5380,Highland Park,30.8,False,False,1.15
+T5381,Highland Park,33.6,True,False,1.06
+T5382,Macalester-Groveland,19.9,True,True,0.34
+T5383,Macalester-Groveland,21.4,False,False,0.22
+T5384,Macalester-Groveland,19.6,True,True,0.34
+T5385,Macalester-Groveland,19.9,True,True,0.41
+T5386,Macalester-Groveland,22.6,False,True,0.34
+T5387,Macalester-Groveland,20.9,True,False,0.24
+T5388,Como,17.6,True,True,0.28
+T5389,Como,19.3,True,True,0.36
+T5390,Como,19.7,True,True,0.29
+T5391,Como,19.0,True,False,0.38
+T5392,Como,20.0,True,True,0.28
+T5393,Como,17.0,True,False,0.5
+T5394,Como,19.6,True,True,0.39
+T5395,Como,21.8,True,True,0.35
+T5396,Como,17.8,True,True,0.39
+T5397,Como,21.8,True,True,0.4
+T5398,Como,22.8,True,True,0.3
+T5399,Como,21.5,True,True,0.44
+T5400,Como,21.5,True,True,0.37
+T5401,Como,21.9,False,True,0.44
+T5402,Como,20.3,True,True,0.41
+T5000,Phillips,18.5,True,True,0.42
