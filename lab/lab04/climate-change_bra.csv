@@ -1,0 +1,1591 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Brazil,BRA,2023,Agricultural land (sq. km),AG.LND.AGRI.K2,2367588
+Brazil,BRA,2022,Agricultural land (sq. km),AG.LND.AGRI.K2,2367588
+Brazil,BRA,2021,Agricultural land (sq. km),AG.LND.AGRI.K2,2367828
+Brazil,BRA,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,2368068
+Brazil,BRA,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,2368308
+Brazil,BRA,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,2368548
+Brazil,BRA,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,2368790
+Brazil,BRA,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,2361590
+Brazil,BRA,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,2354380
+Brazil,BRA,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,2347174
+Brazil,BRA,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,2339966
+Brazil,BRA,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,2332758
+Brazil,BRA,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,2325550
+Brazil,BRA,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,2318342
+Brazil,BRA,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,2311134
+Brazil,BRA,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,2303926
+Brazil,BRA,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,2296718
+Brazil,BRA,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,2289510
+Brazil,BRA,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,2288420
+Brazil,BRA,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,2287383
+Brazil,BRA,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,2286346
+Brazil,BRA,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,2285309
+Brazil,BRA,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,2284272
+Brazil,BRA,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,2283235
+Brazil,BRA,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,2282198
+Brazil,BRA,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,2281161
+Brazil,BRA,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,2280124
+Brazil,BRA,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,2279087
+Brazil,BRA,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,2278050
+Brazil,BRA,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,2292208
+Brazil,BRA,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,2306406
+Brazil,BRA,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,2320604
+Brazil,BRA,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,2334802
+Brazil,BRA,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,2349000
+Brazil,BRA,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,2363198
+Brazil,BRA,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,2377396
+Brazil,BRA,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,2391594
+Brazil,BRA,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,2405792
+Brazil,BRA,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,2419987.07
+Brazil,BRA,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,2401042
+Brazil,BRA,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,2382074
+Brazil,BRA,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,2363106
+Brazil,BRA,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,2344138
+Brazil,BRA,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,2325172.08
+Brazil,BRA,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,2275430
+Brazil,BRA,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,2226220
+Brazil,BRA,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,2177010
+Brazil,BRA,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,2127800
+Brazil,BRA,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,2078590
+Brazil,BRA,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,2043520
+Brazil,BRA,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,2008460
+Brazil,BRA,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,1973400
+Brazil,BRA,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,1938340
+Brazil,BRA,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,1903280
+Brazil,BRA,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,1866150
+Brazil,BRA,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,1829080
+Brazil,BRA,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,1792010
+Brazil,BRA,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,1754940
+Brazil,BRA,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,1717870
+Brazil,BRA,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,1680800
+Brazil,BRA,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,1643730
+Brazil,BRA,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,1606660
+Brazil,BRA,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,1569590
+Brazil,BRA,2023,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.3267329812614
+Brazil,BRA,2022,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.3267329812614
+Brazil,BRA,2021,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.3296044335223
+Brazil,BRA,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.3324758857832
+Brazil,BRA,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.3353473380441
+Brazil,BRA,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.338218790305
+Brazil,BRA,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.3411141713348
+Brazil,BRA,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.2549706035075
+Brazil,BRA,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.168707391836
+Brazil,BRA,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.0824920377022
+Brazil,BRA,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.9962527547995
+Brazil,BRA,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.9100134718969
+Brazil,BRA,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.8237741889942
+Brazil,BRA,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.7375349060916
+Brazil,BRA,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.6512956231889
+Brazil,BRA,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.5650563402862
+Brazil,BRA,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.4788170573836
+Brazil,BRA,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3925777744809
+Brazil,BRA,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3795365954626
+Brazil,BRA,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3671295288186
+Brazil,BRA,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3547224621746
+Brazil,BRA,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3423153955306
+Brazil,BRA,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3299083288866
+Brazil,BRA,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3175012622426
+Brazil,BRA,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3050941955985
+Brazil,BRA,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.2926871289545
+Brazil,BRA,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.2802800623105
+Brazil,BRA,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.2678729956665
+Brazil,BRA,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.2554659290225
+Brazil,BRA,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.4248576836473
+Brazil,BRA,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.594728013649
+Brazil,BRA,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.7645983436506
+Brazil,BRA,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.9344686736523
+Brazil,BRA,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.1043390036539
+Brazil,BRA,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.2742093336556
+Brazil,BRA,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.4440796636572
+Brazil,BRA,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.6139499936589
+Brazil,BRA,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.7838203236605
+Brazil,BRA,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.9536555980158
+Brazil,BRA,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.7269894976634
+Brazil,BRA,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.5000490539761
+Brazil,BRA,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.2731086102889
+Brazil,BRA,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.0461681666017
+Brazil,BRA,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.819252608834
+Brazil,BRA,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.2241192418409
+Brazil,BRA,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,26.6353518845102
+Brazil,BRA,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,26.0465845271795
+Brazil,BRA,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,25.4578171698488
+Brazil,BRA,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,24.8690498125181
+Brazil,BRA,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,24.4494588508927
+Brazil,BRA,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,24.0299875331114
+Brazil,BRA,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.6105162153302
+Brazil,BRA,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.191044897549
+Brazil,BRA,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,22.7715735797677
+Brazil,BRA,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,22.3273359862362
+Brazil,BRA,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.8838162557698
+Brazil,BRA,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.4402965253035
+Brazil,BRA,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,20.9967767948371
+Brazil,BRA,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,20.5532570643708
+Brazil,BRA,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,20.1097373339044
+Brazil,BRA,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,19.6662176034381
+Brazil,BRA,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,19.2226978729717
+Brazil,BRA,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,18.7791781425054
+Brazil,BRA,2023,Arable land (% of land area),AG.LND.ARBL.ZS,6.65722277923079
+Brazil,BRA,2022,Arable land (% of land area),AG.LND.ARBL.ZS,6.65722277923079
+Brazil,BRA,2021,Arable land (% of land area),AG.LND.ARBL.ZS,6.6600942314917
+Brazil,BRA,2020,Arable land (% of land area),AG.LND.ARBL.ZS,6.66296568375261
+Brazil,BRA,2019,Arable land (% of land area),AG.LND.ARBL.ZS,6.66583713601351
+Brazil,BRA,2018,Arable land (% of land area),AG.LND.ARBL.ZS,6.66870858827442
+Brazil,BRA,2017,Arable land (% of land area),AG.LND.ARBL.ZS,6.67158004053533
+Brazil,BRA,2016,Arable land (% of land area),AG.LND.ARBL.ZS,6.59716156944009
+Brazil,BRA,2015,Arable land (% of land area),AG.LND.ARBL.ZS,6.52274309834485
+Brazil,BRA,2014,Arable land (% of land area),AG.LND.ARBL.ZS,6.4482049834054
+Brazil,BRA,2013,Arable land (% of land area),AG.LND.ARBL.ZS,6.37366686846595
+Brazil,BRA,2012,Arable land (% of land area),AG.LND.ARBL.ZS,6.29924839737071
+Brazil,BRA,2011,Arable land (% of land area),AG.LND.ARBL.ZS,6.22471028243126
+Brazil,BRA,2010,Arable land (% of land area),AG.LND.ARBL.ZS,6.15029181133602
+Brazil,BRA,2009,Arable land (% of land area),AG.LND.ARBL.ZS,6.07575369639657
+Brazil,BRA,2008,Arable land (% of land area),AG.LND.ARBL.ZS,6.00121558145712
+Brazil,BRA,2007,Arable land (% of land area),AG.LND.ARBL.ZS,5.92679711036187
+Brazil,BRA,2006,Arable land (% of land area),AG.LND.ARBL.ZS,5.85225899542243
+Brazil,BRA,2005,Arable land (% of land area),AG.LND.ARBL.ZS,5.78274592193957
+Brazil,BRA,2004,Arable land (% of land area),AG.LND.ARBL.ZS,5.71371142383353
+Brazil,BRA,2003,Arable land (% of land area),AG.LND.ARBL.ZS,5.64467692572749
+Brazil,BRA,2002,Arable land (% of land area),AG.LND.ARBL.ZS,5.57564242762146
+Brazil,BRA,2001,Arable land (% of land area),AG.LND.ARBL.ZS,5.50660792951542
+Brazil,BRA,2000,Arable land (% of land area),AG.LND.ARBL.ZS,5.43757343140938
+Brazil,BRA,1999,Arable land (% of land area),AG.LND.ARBL.ZS,5.36853893330334
+Brazil,BRA,1998,Arable land (% of land area),AG.LND.ARBL.ZS,5.2995044351973
+Brazil,BRA,1997,Arable land (% of land area),AG.LND.ARBL.ZS,5.23046993709127
+Brazil,BRA,1996,Arable land (% of land area),AG.LND.ARBL.ZS,5.16143543898523
+Brazil,BRA,1995,Arable land (% of land area),AG.LND.ARBL.ZS,5.09240094087919
+Brazil,BRA,1994,Arable land (% of land area),AG.LND.ARBL.ZS,5.13104590255727
+Brazil,BRA,1993,Arable land (% of land area),AG.LND.ARBL.ZS,5.26420950115696
+Brazil,BRA,1992,Arable land (% of land area),AG.LND.ARBL.ZS,5.39749274360085
+Brazil,BRA,1991,Arable land (% of land area),AG.LND.ARBL.ZS,5.53065634220054
+Brazil,BRA,1990,Arable land (% of land area),AG.LND.ARBL.ZS,5.66393958464443
+Brazil,BRA,1989,Arable land (% of land area),AG.LND.ARBL.ZS,5.79722282708832
+Brazil,BRA,1988,Arable land (% of land area),AG.LND.ARBL.ZS,5.93038642568801
+Brazil,BRA,1987,Arable land (% of land area),AG.LND.ARBL.ZS,6.0636696681319
+Brazil,BRA,1986,Arable land (% of land area),AG.LND.ARBL.ZS,6.19683326673159
+Brazil,BRA,1985,Arable land (% of land area),AG.LND.ARBL.ZS,6.33008145352913
+Brazil,BRA,1984,Arable land (% of land area),AG.LND.ARBL.ZS,6.1657258672384
+Brazil,BRA,1983,Arable land (% of land area),AG.LND.ARBL.ZS,6.04644095456645
+Brazil,BRA,1982,Arable land (% of land area),AG.LND.ARBL.ZS,5.92715604189449
+Brazil,BRA,1981,Arable land (% of land area),AG.LND.ARBL.ZS,5.80787112922253
+Brazil,BRA,1980,Arable land (% of land area),AG.LND.ARBL.ZS,5.68861110247017
+Brazil,BRA,1979,Arable land (% of land area),AG.LND.ARBL.ZS,5.36004422036482
+Brazil,BRA,1978,Arable land (% of land area),AG.LND.ARBL.ZS,5.03174151186747
+Brazil,BRA,1977,Arable land (% of land area),AG.LND.ARBL.ZS,4.70331915952592
+Brazil,BRA,1976,Arable land (% of land area),AG.LND.ARBL.ZS,4.37501645102858
+Brazil,BRA,1975,Arable land (% of land area),AG.LND.ARBL.ZS,4.04659409868703
+Brazil,BRA,1974,Arable land (% of land area),AG.LND.ARBL.ZS,3.91199477395689
+Brazil,BRA,1973,Arable land (% of land area),AG.LND.ARBL.ZS,3.77763473691515
+Brazil,BRA,1972,Arable land (% of land area),AG.LND.ARBL.ZS,3.64339434371762
+Brazil,BRA,1971,Arable land (% of land area),AG.LND.ARBL.ZS,3.50903430667589
+Brazil,BRA,1970,Arable land (% of land area),AG.LND.ARBL.ZS,3.37467426963415
+Brazil,BRA,1969,Arable land (% of land area),AG.LND.ARBL.ZS,3.33339714338358
+Brazil,BRA,1968,Arable land (% of land area),AG.LND.ARBL.ZS,3.27010554979936
+Brazil,BRA,1967,Arable land (% of land area),AG.LND.ARBL.ZS,3.20681395621514
+Brazil,BRA,1966,Arable land (% of land area),AG.LND.ARBL.ZS,3.14352236263092
+Brazil,BRA,1965,Arable land (% of land area),AG.LND.ARBL.ZS,3.0802307690467
+Brazil,BRA,1964,Arable land (% of land area),AG.LND.ARBL.ZS,3.01693917546248
+Brazil,BRA,1963,Arable land (% of land area),AG.LND.ARBL.ZS,2.95364758187826
+Brazil,BRA,1962,Arable land (% of land area),AG.LND.ARBL.ZS,2.89023634444984
+Brazil,BRA,1961,Arable land (% of land area),AG.LND.ARBL.ZS,2.82694475086562
+Brazil,BRA,2015,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,70563.6505162
+Brazil,BRA,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,70765.7072466
+Brazil,BRA,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,70952.5256573
+Brazil,BRA,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.836919971236929
+Brazil,BRA,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.839316464498962
+Brazil,BRA,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.841532223714631
+Brazil,BRA,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,1503.744113778
+Brazil,BRA,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,1301.687383384
+Brazil,BRA,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,1114.868972724
+Brazil,BRA,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0178351526776787
+Brazil,BRA,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.015438659415889
+Brazil,BRA,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.0132229002008803
+Brazil,BRA,2015,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.854755123914608
+Brazil,BRA,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.854755123914851
+Brazil,BRA,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.854755123915511
+Brazil,BRA,2023,Forest area (sq. km),AG.LND.FRST.K2,4929787.518
+Brazil,BRA,2022,Forest area (sq. km),AG.LND.FRST.K2,4941960
+Brazil,BRA,2021,Forest area (sq. km),AG.LND.FRST.K2,4953910
+Brazil,BRA,2020,Forest area (sq. km),AG.LND.FRST.K2,4966196
+Brazil,BRA,2019,Forest area (sq. km),AG.LND.FRST.K2,4977990
+Brazil,BRA,2018,Forest area (sq. km),AG.LND.FRST.K2,4990510
+Brazil,BRA,2017,Forest area (sq. km),AG.LND.FRST.K2,5000920
+Brazil,BRA,2016,Forest area (sq. km),AG.LND.FRST.K2,5020820
+Brazil,BRA,2015,Forest area (sq. km),AG.LND.FRST.K2,5038850
+Brazil,BRA,2014,Forest area (sq. km),AG.LND.FRST.K2,5054239.8
+Brazil,BRA,2013,Forest area (sq. km),AG.LND.FRST.K2,5069631.6
+Brazil,BRA,2012,Forest area (sq. km),AG.LND.FRST.K2,5085023.4
+Brazil,BRA,2011,Forest area (sq. km),AG.LND.FRST.K2,5100415.2
+Brazil,BRA,2010,Forest area (sq. km),AG.LND.FRST.K2,5115807
+Brazil,BRA,2009,Forest area (sq. km),AG.LND.FRST.K2,5155314.9
+Brazil,BRA,2008,Forest area (sq. km),AG.LND.FRST.K2,5194822.8
+Brazil,BRA,2007,Forest area (sq. km),AG.LND.FRST.K2,5234330.7
+Brazil,BRA,2006,Forest area (sq. km),AG.LND.FRST.K2,5273838.6
+Brazil,BRA,2005,Forest area (sq. km),AG.LND.FRST.K2,5313346.5
+Brazil,BRA,2004,Forest area (sq. km),AG.LND.FRST.K2,5352854.4
+Brazil,BRA,2003,Forest area (sq. km),AG.LND.FRST.K2,5392362.3
+Brazil,BRA,2002,Forest area (sq. km),AG.LND.FRST.K2,5431870.2
+Brazil,BRA,2001,Forest area (sq. km),AG.LND.FRST.K2,5471378.1
+Brazil,BRA,2000,Forest area (sq. km),AG.LND.FRST.K2,5510886
+Brazil,BRA,1999,Forest area (sq. km),AG.LND.FRST.K2,5548695.4
+Brazil,BRA,1998,Forest area (sq. km),AG.LND.FRST.K2,5586504.8
+Brazil,BRA,1997,Forest area (sq. km),AG.LND.FRST.K2,5624314.2
+Brazil,BRA,1996,Forest area (sq. km),AG.LND.FRST.K2,5662123.6
+Brazil,BRA,1995,Forest area (sq. km),AG.LND.FRST.K2,5699933
+Brazil,BRA,1994,Forest area (sq. km),AG.LND.FRST.K2,5737742.4
+Brazil,BRA,1993,Forest area (sq. km),AG.LND.FRST.K2,5775551.8
+Brazil,BRA,1992,Forest area (sq. km),AG.LND.FRST.K2,5813361.2
+Brazil,BRA,1991,Forest area (sq. km),AG.LND.FRST.K2,5851170.6
+Brazil,BRA,1990,Forest area (sq. km),AG.LND.FRST.K2,5888980
+Brazil,BRA,2023,Forest area (% of land area),AG.LND.FRST.ZS,58.9818729765235
+Brazil,BRA,2022,Forest area (% of land area),AG.LND.FRST.ZS,59.1275092305226
+Brazil,BRA,2021,Forest area (% of land area),AG.LND.FRST.ZS,59.2704836243471
+Brazil,BRA,2020,Forest area (% of land area),AG.LND.FRST.ZS,59.4174780513368
+Brazil,BRA,2019,Forest area (% of land area),AG.LND.FRST.ZS,59.5585860011916
+Brazil,BRA,2018,Forest area (% of land area),AG.LND.FRST.ZS,59.7083800941358
+Brazil,BRA,2017,Forest area (% of land area),AG.LND.FRST.ZS,59.8329293359527
+Brazil,BRA,2016,Forest area (% of land area),AG.LND.FRST.ZS,60.0710205859198
+Brazil,BRA,2015,Forest area (% of land area),AG.LND.FRST.ZS,60.2867384370207
+Brazil,BRA,2014,Forest area (% of land area),AG.LND.FRST.ZS,60.4708679203746
+Brazil,BRA,2013,Forest area (% of land area),AG.LND.FRST.ZS,60.6550213324974
+Brazil,BRA,2012,Forest area (% of land area),AG.LND.FRST.ZS,60.8391747446202
+Brazil,BRA,2011,Forest area (% of land area),AG.LND.FRST.ZS,61.023328156743
+Brazil,BRA,2010,Forest area (% of land area),AG.LND.FRST.ZS,61.2074815688658
+Brazil,BRA,2009,Forest area (% of land area),AG.LND.FRST.ZS,61.6801692721108
+Brazil,BRA,2008,Forest area (% of land area),AG.LND.FRST.ZS,62.1528569753558
+Brazil,BRA,2007,Forest area (% of land area),AG.LND.FRST.ZS,62.6255446786007
+Brazil,BRA,2006,Forest area (% of land area),AG.LND.FRST.ZS,63.0982323818457
+Brazil,BRA,2005,Forest area (% of land area),AG.LND.FRST.ZS,63.5709200850907
+Brazil,BRA,2004,Forest area (% of land area),AG.LND.FRST.ZS,64.0436077883357
+Brazil,BRA,2003,Forest area (% of land area),AG.LND.FRST.ZS,64.5162954915806
+Brazil,BRA,2002,Forest area (% of land area),AG.LND.FRST.ZS,64.9889831948257
+Brazil,BRA,2001,Forest area (% of land area),AG.LND.FRST.ZS,65.4616708980706
+Brazil,BRA,2000,Forest area (% of land area),AG.LND.FRST.ZS,65.9343586013156
+Brazil,BRA,1999,Forest area (% of land area),AG.LND.FRST.ZS,66.3867247976224
+Brazil,BRA,1998,Forest area (% of land area),AG.LND.FRST.ZS,66.8390909939293
+Brazil,BRA,1997,Forest area (% of land area),AG.LND.FRST.ZS,67.2914571902361
+Brazil,BRA,1996,Forest area (% of land area),AG.LND.FRST.ZS,67.7438233865429
+Brazil,BRA,1995,Forest area (% of land area),AG.LND.FRST.ZS,68.1961895828498
+Brazil,BRA,1994,Forest area (% of land area),AG.LND.FRST.ZS,68.6485557791566
+Brazil,BRA,1993,Forest area (% of land area),AG.LND.FRST.ZS,69.1009219754634
+Brazil,BRA,1992,Forest area (% of land area),AG.LND.FRST.ZS,69.5532881717703
+Brazil,BRA,1991,Forest area (% of land area),AG.LND.FRST.ZS,70.0056543680771
+Brazil,BRA,1990,Forest area (% of land area),AG.LND.FRST.ZS,70.4580205643839
+Brazil,BRA,2023,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,3.87876104288415
+Brazil,BRA,2022,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,3.87876104288415
+Brazil,BRA,2021,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,3.70707547169811
+Brazil,BRA,2020,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,3.56603573039288
+Brazil,BRA,2019,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,3.46044099838366
+Brazil,BRA,2017,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,2.91412915454726
+Brazil,BRA,2006,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,1.94539442937572
+Brazil,BRA,2022,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2021,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2020,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2011,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2010,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2009,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2008,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2006,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,2005,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,2004,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,2003,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2001,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,2000,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1999,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1998,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1996,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1995,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1994,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1993,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1991,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1990,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1989,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1988,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1986,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1985,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1984,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1983,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1981,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1980,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1979,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1978,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1976,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1975,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1974,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1973,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1971,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1970,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1969,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1968,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1966,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1965,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1964,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1963,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1961,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1782
+Brazil,BRA,2023,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5336.3
+Brazil,BRA,2022,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4907.4
+Brazil,BRA,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4479
+Brazil,BRA,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5255.3
+Brazil,BRA,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5321.3
+Brazil,BRA,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4806.5
+Brazil,BRA,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5209.6
+Brazil,BRA,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4181.7
+Brazil,BRA,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5000.6
+Brazil,BRA,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4640.4
+Brazil,BRA,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4826.4
+Brazil,BRA,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4584.5
+Brazil,BRA,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4037.5
+Brazil,BRA,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4040.6
+Brazil,BRA,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3532.1
+Brazil,BRA,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3831.3
+Brazil,BRA,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3553.1
+Brazil,BRA,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3210.5
+Brazil,BRA,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2882.6
+Brazil,BRA,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3131.8
+Brazil,BRA,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3385.4
+Brazil,BRA,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2844.8
+Brazil,BRA,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3147.6
+Brazil,BRA,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2643.3
+Brazil,BRA,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2732
+Brazil,BRA,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2580.4
+Brazil,BRA,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2521.8
+Brazil,BRA,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2422.2
+Brazil,BRA,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2513.1
+Brazil,BRA,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2285
+Brazil,BRA,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2354.6
+Brazil,BRA,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2142.5
+Brazil,BRA,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1850.7
+Brazil,BRA,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1755.1
+Brazil,BRA,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1999.7
+Brazil,BRA,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1858.8
+Brazil,BRA,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1882.1
+Brazil,BRA,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1664.7
+Brazil,BRA,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1827.8
+Brazil,BRA,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1677.3
+Brazil,BRA,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1614.6
+Brazil,BRA,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1544.8
+Brazil,BRA,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1611.1
+Brazil,BRA,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1575.7
+Brazil,BRA,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1301.3
+Brazil,BRA,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1210.1
+Brazil,BRA,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1452.5
+Brazil,BRA,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1444.6
+Brazil,BRA,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1358.8
+Brazil,BRA,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1455.8
+Brazil,BRA,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1411.7
+Brazil,BRA,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1299.7
+Brazil,BRA,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1290.8
+Brazil,BRA,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1408.8
+Brazil,BRA,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1302.8
+Brazil,BRA,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1350.5
+Brazil,BRA,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1402.2
+Brazil,BRA,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1321.3
+Brazil,BRA,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1428.3
+Brazil,BRA,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1256.4
+Brazil,BRA,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1322.4
+Brazil,BRA,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1381.5
+Brazil,BRA,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1346.3
+Brazil,BRA,2024,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.26093198121488
+Brazil,BRA,2023,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.8497546823908
+Brazil,BRA,2022,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.8221961533297
+Brazil,BRA,2021,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.77979084938159
+Brazil,BRA,2020,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.59263795310275
+Brazil,BRA,2019,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.692673213156
+Brazil,BRA,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.07858821454947
+Brazil,BRA,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.33825981739039
+Brazil,BRA,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.13737803865892
+Brazil,BRA,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.59214931791344
+Brazil,BRA,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.57135266957477
+Brazil,BRA,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.04150901624338
+Brazil,BRA,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.75496285641218
+Brazil,BRA,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.91518011405433
+Brazil,BRA,2010,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.73001288350945
+Brazil,BRA,2009,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.88848224095724
+Brazil,BRA,2008,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.99060946922903
+Brazil,BRA,2007,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.19082601308524
+Brazil,BRA,2006,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.753125703626
+Brazil,BRA,2005,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.73389354602718
+Brazil,BRA,2004,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.71353166307823
+Brazil,BRA,2003,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.81340052439304
+Brazil,BRA,2002,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.25358061271527
+Brazil,BRA,2001,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.14759377398385
+Brazil,BRA,2000,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.03391680528314
+Brazil,BRA,1999,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.73377022686194
+Brazil,BRA,1998,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.34088809328503
+Brazil,BRA,1997,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.15045305915354
+Brazil,BRA,1996,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.47596541135756
+Brazil,BRA,1995,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.631586020354494
+Brazil,BRA,1994,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.584731354072149
+Brazil,BRA,1993,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.350808564777038
+Brazil,BRA,1992,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.62798622938011
+Brazil,BRA,1991,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.32201174402017
+Brazil,BRA,1990,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.256909930150916
+Brazil,BRA,1989,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.273855965905703
+Brazil,BRA,1988,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.910738734536583
+Brazil,BRA,1987,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.412991260987785
+Brazil,BRA,1986,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.134512965266612
+Brazil,BRA,1985,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.683327514048415
+Brazil,BRA,1984,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.846341838863818
+Brazil,BRA,1983,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.848375851273491
+Brazil,BRA,1982,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.07255754578395
+Brazil,BRA,1981,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.976686740403903
+Brazil,BRA,1980,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.804992588829738
+Brazil,BRA,1979,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.09289763404408
+Brazil,BRA,1978,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.00160453389634
+Brazil,BRA,1977,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.03944503129257
+Brazil,BRA,1976,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.0152188208109
+Brazil,BRA,1975,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.00771220853274
+Brazil,BRA,1974,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.10014598451496
+Brazil,BRA,1973,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.41245107614379
+Brazil,BRA,1972,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.787030229370392
+Brazil,BRA,1971,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.918767247020645
+Brazil,BRA,1970,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.925399503632341
+Brazil,BRA,2023,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8
+Brazil,BRA,2022,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Brazil,BRA,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.5
+Brazil,BRA,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7
+Brazil,BRA,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8
+Brazil,BRA,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7
+Brazil,BRA,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8
+Brazil,BRA,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7
+Brazil,BRA,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7
+Brazil,BRA,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7
+Brazil,BRA,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6
+Brazil,BRA,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.5
+Brazil,BRA,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.3
+Brazil,BRA,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.6
+Brazil,BRA,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.9
+Brazil,BRA,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.5
+Brazil,BRA,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.1
+Brazil,BRA,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.6
+Brazil,BRA,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.1
+Brazil,BRA,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,96.8
+Brazil,BRA,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,97
+Brazil,BRA,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,96.7
+Brazil,BRA,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,96
+Brazil,BRA,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.4
+Brazil,BRA,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.76296
+Brazil,BRA,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.193812
+Brazil,BRA,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,93.354139
+Brazil,BRA,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,92.867095
+Brazil,BRA,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.728598
+Brazil,BRA,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.8837280273438
+Brazil,BRA,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,89.999927
+Brazil,BRA,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.803833
+Brazil,BRA,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,90.6065444946289
+Brazil,BRA,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,87.475116
+Brazil,BRA,2023,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,1.98997733169775
+Brazil,BRA,2022,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.10121189126786
+Brazil,BRA,2021,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.66646395644626
+Brazil,BRA,2020,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.7894408712967
+Brazil,BRA,2019,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.36618054063618
+Brazil,BRA,2018,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.36411381366693
+Brazil,BRA,2017,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.76477146416734
+Brazil,BRA,2016,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,4.32743314373327
+Brazil,BRA,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,4.58447641180492
+Brazil,BRA,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,4.42125529973703
+Brazil,BRA,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.75518097954236
+Brazil,BRA,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.54145086630908
+Brazil,BRA,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.32794302660802
+Brazil,BRA,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.19850963617361
+Brazil,BRA,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.09859671630328
+Brazil,BRA,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.60782996844949
+Brazil,BRA,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.26846412533388
+Brazil,BRA,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.50395266814042
+Brazil,BRA,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.66529043527453
+Brazil,BRA,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.73116997416461
+Brazil,BRA,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.49575258207329
+Brazil,BRA,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.66264743064937
+Brazil,BRA,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.39809076186881
+Brazil,BRA,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.15439511621908
+Brazil,BRA,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.93741560009082
+Brazil,BRA,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.19302062483683
+Brazil,BRA,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.39786740783552
+Brazil,BRA,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.09284600965401
+Brazil,BRA,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.00362117699138
+Brazil,BRA,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,1.93431035875112
+Brazil,BRA,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,1.98590341937327
+Brazil,BRA,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.10977446097331
+Brazil,BRA,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.42557930172329
+Brazil,BRA,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.13355114643593
+Brazil,BRA,2023,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,60.2032798376475
+Brazil,BRA,2022,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,63.0545151770595
+Brazil,BRA,2021,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,55.2984336444097
+Brazil,BRA,2020,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,63.0413000744317
+Brazil,BRA,2019,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,62.8525888106762
+Brazil,BRA,2018,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,64.0594661093572
+Brazil,BRA,2017,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,62.2770638073522
+Brazil,BRA,2016,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,65.1811809961875
+Brazil,BRA,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,61.3371503202893
+Brazil,BRA,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,62.6306485804755
+Brazil,BRA,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,68.4943889509808
+Brazil,BRA,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,75.1884953140925
+Brazil,BRA,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,80.5505146147582
+Brazil,BRA,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,78.2002780616351
+Brazil,BRA,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,83.8812239740325
+Brazil,BRA,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,79.8061619592845
+Brazil,BRA,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,84.0205595005695
+Brazil,BRA,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,83.1801152772114
+Brazil,BRA,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,83.729372036533
+Brazil,BRA,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,82.7963649784619
+Brazil,BRA,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,83.8823183902904
+Brazil,BRA,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,82.7642469284377
+Brazil,BRA,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,81.5432196476189
+Brazil,BRA,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,87.2439884210828
+Brazil,BRA,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,87.5368969514454
+Brazil,BRA,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,90.5892188918035
+Brazil,BRA,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,90.5806183478255
+Brazil,BRA,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,91.2423869979882
+Brazil,BRA,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,92.127749899311
+Brazil,BRA,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,93.3333589703162
+Brazil,BRA,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,93.2886465377655
+Brazil,BRA,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,92.3928151837572
+Brazil,BRA,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,92.9195270867022
+Brazil,BRA,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,92.7686349132263
+Brazil,BRA,2023,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,5.45339430974737
+Brazil,BRA,2022,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,6.21668184790905
+Brazil,BRA,2021,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,13.2534380720277
+Brazil,BRA,2020,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,9.45982912507714
+Brazil,BRA,2019,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,10.3580861631008
+Brazil,BRA,2018,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,9.75999789197352
+Brazil,BRA,2017,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,11.8403422580569
+Brazil,BRA,2016,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,10.3631491406394
+Brazil,BRA,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,14.0835224492371
+Brazil,BRA,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,14.057049321097
+Brazil,BRA,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,12.0878427855188
+Brazil,BRA,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,8.46486519756481
+Brazil,BRA,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,4.71926086539528
+Brazil,BRA,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,7.07273231429109
+Brazil,BRA,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,2.86020153565276
+Brazil,BRA,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,6.21465144352761
+Brazil,BRA,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,3.48109725551335
+Brazil,BRA,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,4.35401598237217
+Brazil,BRA,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,4.66760786337595
+Brazil,BRA,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,4.9719578890859
+Brazil,BRA,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,3.59829719025413
+Brazil,BRA,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,3.58896175843504
+Brazil,BRA,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,3.02001777734484
+Brazil,BRA,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.16591671204609
+Brazil,BRA,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.792612244410187
+Brazil,BRA,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.410569762671407
+Brazil,BRA,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.382165191472229
+Brazil,BRA,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.334388453642225
+Brazil,BRA,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.20319229610923
+Brazil,BRA,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.18420172203614
+Brazil,BRA,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.15398291900816
+Brazil,BRA,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.16133569407443
+Brazil,BRA,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.1591453086267
+Brazil,BRA,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.146305779078274
+Brazil,BRA,2023,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.04961588250923
+Brazil,BRA,2022,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.14933913616024
+Brazil,BRA,2021,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.24109103822688
+Brazil,BRA,2020,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.23486077447182
+Brazil,BRA,2019,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.54773850295088
+Brazil,BRA,2018,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.58117960550261
+Brazil,BRA,2017,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.64266069371732
+Brazil,BRA,2016,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.71463479742911
+Brazil,BRA,2015,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.51218667998861
+Brazil,BRA,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.57909354371277
+Brazil,BRA,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.7065472165483
+Brazil,BRA,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.9033256637841
+Brazil,BRA,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.94476612437636
+Brazil,BRA,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.81610120357641
+Brazil,BRA,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.77975032234119
+Brazil,BRA,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,3.01662610378196
+Brazil,BRA,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.77436442343765
+Brazil,BRA,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,3.27993952358127
+Brazil,BRA,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.44520920123166
+Brazil,BRA,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,2.99675057361796
+Brazil,BRA,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,3.66636566494391
+Brazil,BRA,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,4.00264991856418
+Brazil,BRA,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,4.34662169566647
+Brazil,BRA,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,1.73282508383251
+Brazil,BRA,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,1.18817146476416
+Brazil,BRA,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,1.01476932257543
+Brazil,BRA,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,1.0289562377022
+Brazil,BRA,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0.833224617032526
+Brazil,BRA,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0.914002489105627
+Brazil,BRA,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0.0211505108809765
+Brazil,BRA,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0.175413531447439
+Brazil,BRA,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0.727665348402363
+Brazil,BRA,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0.615248083216357
+Brazil,BRA,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,1.00394487054631
+Brazil,BRA,2023,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.28364207824804
+Brazil,BRA,2022,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.52102762001916
+Brazil,BRA,2021,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.11167809007345
+Brazil,BRA,2020,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.94540399895668
+Brazil,BRA,2019,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.86499260700881
+Brazil,BRA,2018,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.25460019136928
+Brazil,BRA,2017,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.84700138018114
+Brazil,BRA,2016,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.80618356297528
+Brazil,BRA,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.26785120570979
+Brazil,BRA,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,6.29981081951377
+Brazil,BRA,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.58851723255985
+Brazil,BRA,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.47283947711898
+Brazil,BRA,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.74486278506912
+Brazil,BRA,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.11510471909764
+Brazil,BRA,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.14060083111467
+Brazil,BRA,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.79081212869844
+Brazil,BRA,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.99519035284973
+Brazil,BRA,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.95084860148282
+Brazil,BRA,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.89752948269745
+Brazil,BRA,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.13018611289627
+Brazil,BRA,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.95192115035722
+Brazil,BRA,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.88780082795491
+Brazil,BRA,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.81510343735921
+Brazil,BRA,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.34753948009515
+Brazil,BRA,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.93552743221119
+Brazil,BRA,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.45829655506794
+Brazil,BRA,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.21317479592963
+Brazil,BRA,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.17840688277179
+Brazil,BRA,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.72168823770596
+Brazil,BRA,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.45499748116643
+Brazil,BRA,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.42999333269835
+Brazil,BRA,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.58178478645773
+Brazil,BRA,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.17427477952188
+Brazil,BRA,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.21567985064244
+Brazil,BRA,2021,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,77.3753492178891
+Brazil,BRA,2020,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,83.1761424000102
+Brazil,BRA,2019,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,81.4302357542747
+Brazil,BRA,2018,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,81.5730752318417
+Brazil,BRA,2017,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,78.4181545870035
+Brazil,BRA,2016,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,79.7128089556938
+Brazil,BRA,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,73.5400962658205
+Brazil,BRA,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,72.5770927252724
+Brazil,BRA,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,76.8252008450734
+Brazil,BRA,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,82.577658259127
+Brazil,BRA,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,87.1951774964881
+Brazil,BRA,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,84.8163978802163
+Brazil,BRA,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,89.0545459226252
+Brazil,BRA,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,84.334590890735
+Brazil,BRA,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,88.2273383848482
+Brazil,BRA,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,86.7770122836764
+Brazil,BRA,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,87.1374676515322
+Brazil,BRA,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,86.0318464433105
+Brazil,BRA,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,87.163729383898
+Brazil,BRA,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,85.7402993019374
+Brazil,BRA,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,84.2906139272103
+Brazil,BRA,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,89.4957553523831
+Brazil,BRA,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,90.0369268275195
+Brazil,BRA,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,92.9233437348484
+Brazil,BRA,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,92.9778363670604
+Brazil,BRA,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,93.5611340368994
+Brazil,BRA,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,94.1574958000878
+Brazil,BRA,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,95.4053399271653
+Brazil,BRA,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,95.2547067974728
+Brazil,BRA,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,94.4194397100922
+Brazil,BRA,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,94.6257525269118
+Brazil,BRA,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,94.500518353297
+Brazil,BRA,2021,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,144848630000
+Brazil,BRA,2020,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,126600640000
+Brazil,BRA,2019,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,117602450000
+Brazil,BRA,2018,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,106343160000
+Brazil,BRA,2017,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,96132140000
+Brazil,BRA,2016,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,84921090000
+Brazil,BRA,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,71570400000
+Brazil,BRA,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,59306270000
+Brazil,BRA,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,47555440000
+Brazil,BRA,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,40817810000
+Brazil,BRA,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,35333460000
+Brazil,BRA,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,34120190000
+Brazil,BRA,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,24113940000
+Brazil,BRA,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,20969660000
+Brazil,BRA,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,18726350000
+Brazil,BRA,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,15083120000
+Brazil,BRA,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,13735750000
+Brazil,BRA,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,12535970000
+Brazil,BRA,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,11955460000
+Brazil,BRA,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,10287350000
+Brazil,BRA,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,9025410000
+Brazil,BRA,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,7856640000
+Brazil,BRA,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,8368000000
+Brazil,BRA,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,7510000000
+Brazil,BRA,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,7383000000
+Brazil,BRA,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,6754000000
+Brazil,BRA,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,5594000000
+Brazil,BRA,1994,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,5388000000
+Brazil,BRA,1993,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,4954000000
+Brazil,BRA,1992,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,4899000000
+Brazil,BRA,1991,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,3999000000
+Brazil,BRA,1990,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,3859000000
+Brazil,BRA,2021,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,22.0769155734794
+Brazil,BRA,2020,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,20.1348423255784
+Brazil,BRA,2019,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,18.5776469435984
+Brazil,BRA,2018,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,17.5136091224846
+Brazil,BRA,2017,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,16.1410907796512
+Brazil,BRA,2016,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,14.5316279595064
+Brazil,BRA,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,12.2029459455312
+Brazil,BRA,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,9.94644414479687
+Brazil,BRA,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,8.33081189409254
+Brazil,BRA,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,7.38916294503449
+Brazil,BRA,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.64466288172981
+Brazil,BRA,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.61611981858126
+Brazil,BRA,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,5.17332194859275
+Brazil,BRA,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.52842893145052
+Brazil,BRA,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.20677888427868
+Brazil,BRA,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.59689700646497
+Brazil,BRA,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.40809561499927
+Brazil,BRA,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.23548146484864
+Brazil,BRA,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.2814109936076
+Brazil,BRA,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.97605237349966
+Brazil,BRA,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.74739427959136
+Brazil,BRA,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.25176693130034
+Brazil,BRA,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.50002987607404
+Brazil,BRA,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.33412484304487
+Brazil,BRA,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.39721801923489
+Brazil,BRA,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.31874703891128
+Brazil,BRA,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.02974590077685
+Brazil,BRA,1994,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.07198095684911
+Brazil,BRA,1993,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.96606025970727
+Brazil,BRA,1992,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.02662452633495
+Brazil,BRA,1991,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.70622544020958
+Brazil,BRA,1990,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.73188344007073
+Brazil,BRA,2021,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,46.5
+Brazil,BRA,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,50
+Brazil,BRA,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,47.5
+Brazil,BRA,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,46.9
+Brazil,BRA,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,45.3
+Brazil,BRA,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,45.4
+Brazil,BRA,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.7
+Brazil,BRA,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.7
+Brazil,BRA,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,42.3
+Brazil,BRA,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.5
+Brazil,BRA,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,45.2
+Brazil,BRA,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,46.8
+Brazil,BRA,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,48.9
+Brazil,BRA,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,47
+Brazil,BRA,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,47.2
+Brazil,BRA,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,46.7
+Brazil,BRA,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,46.1
+Brazil,BRA,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,45.2
+Brazil,BRA,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,45.1
+Brazil,BRA,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,42.9
+Brazil,BRA,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.3
+Brazil,BRA,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,42.7
+Brazil,BRA,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,44
+Brazil,BRA,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.8
+Brazil,BRA,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.7
+Brazil,BRA,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,44.5
+Brazil,BRA,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,46.1
+Brazil,BRA,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,48.3
+Brazil,BRA,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,48.2
+Brazil,BRA,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,48.7
+Brazil,BRA,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,48.9
+Brazil,BRA,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,49.8
+Brazil,BRA,2023,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.6330701087655
+Brazil,BRA,2022,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.2191357728208
+Brazil,BRA,2021,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,79.1334770390109
+Brazil,BRA,2020,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,79.5986291996783
+Brazil,BRA,2019,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,78.5762005309279
+Brazil,BRA,2018,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,78.3246995983225
+Brazil,BRA,2017,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,80.7899301075011
+Brazil,BRA,2016,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,80.2964515799792
+Brazil,BRA,2015,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,80.7329630671056
+Brazil,BRA,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,79.3623615099756
+Brazil,BRA,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.3046278093619
+Brazil,BRA,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,76.101123419693
+Brazil,BRA,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,74.6200333067569
+Brazil,BRA,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,76.6447153449177
+Brazil,BRA,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,74.5066176883284
+Brazil,BRA,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,76.9711599475732
+Brazil,BRA,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,76.6342229565629
+Brazil,BRA,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,76.7722118939135
+Brazil,BRA,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.1115426794684
+Brazil,BRA,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.6037022494891
+Brazil,BRA,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.7014829420792
+Brazil,BRA,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.3453411244036
+Brazil,BRA,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.5529968955651
+Brazil,BRA,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.2106481519954
+Brazil,BRA,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,80.2280376315189
+Brazil,BRA,1998,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,78.7772258866123
+Brazil,BRA,1997,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,77.1622329183802
+Brazil,BRA,1996,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,75.9312182399303
+Brazil,BRA,1995,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,73.7081172941793
+Brazil,BRA,1994,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,74.2315990105648
+Brazil,BRA,1993,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,74.6276033911191
+Brazil,BRA,1992,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,76.3879627271895
+Brazil,BRA,1991,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,75.1810462839841
+Brazil,BRA,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,74.5900155392779
+Brazil,BRA,2023,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2916.48609397384
+Brazil,BRA,2022,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2787.76089640442
+Brazil,BRA,2021,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2723.96659104663
+Brazil,BRA,2020,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2624.84323723758
+Brazil,BRA,2019,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2661.18328561313
+Brazil,BRA,2018,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2640.41643831267
+Brazil,BRA,2017,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2610.16613569938
+Brazil,BRA,2016,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2592.61337303819
+Brazil,BRA,2015,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2628.0976910972
+Brazil,BRA,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2690.2149503596
+Brazil,BRA,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2600.67222764742
+Brazil,BRA,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2530.977463284
+Brazil,BRA,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2458.55879343851
+Brazil,BRA,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2398.60801799243
+Brazil,BRA,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2217.79002848663
+Brazil,BRA,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2249.32535945695
+Brazil,BRA,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2185.74876193515
+Brazil,BRA,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2089.17498538706
+Brazil,BRA,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2031.50607953893
+Brazil,BRA,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1970.41586550174
+Brazil,BRA,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1894.62909554308
+Brazil,BRA,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1817.13540112192
+Brazil,BRA,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1756.81160837002
+Brazil,BRA,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1905.7710269775
+Brazil,BRA,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1839.60709325481
+Brazil,BRA,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1815.03089492586
+Brazil,BRA,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1768.19912731098
+Brazil,BRA,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1691.31966398402
+Brazil,BRA,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1637.27628824207
+Brazil,BRA,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1568.41107958141
+Brazil,BRA,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1538.12717642652
+Brazil,BRA,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1493.90946025703
+Brazil,BRA,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1485.47770766462
+Brazil,BRA,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1459.3891403299
+Brazil,BRA,2023,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1481.22439922518
+Brazil,BRA,2022,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1432.72741132919
+Brazil,BRA,2021,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1430.3934661032
+Brazil,BRA,2020,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1379.24649914162
+Brazil,BRA,2019,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1415.83477031974
+Brazil,BRA,2018,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1403.40232453429
+Brazil,BRA,2017,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1431.95949698072
+Brazil,BRA,2016,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1414.8979311951
+Brazil,BRA,2015,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1482.02057858653
+Brazil,BRA,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1522.42189026812
+Brazil,BRA,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1487.45745839708
+Brazil,BRA,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1433.15306444735
+Brazil,BRA,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1390.00783643031
+Brazil,BRA,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1384.36896688389
+Brazil,BRA,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1262.10043812649
+Brazil,BRA,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1317.23578420454
+Brazil,BRA,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1259.91135986965
+Brazil,BRA,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1202.05933940304
+Brazil,BRA,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1173.71585743449
+Brazil,BRA,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1157.16905577095
+Brazil,BRA,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1107.9739157885
+Brazil,BRA,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1103.40127916211
+Brazil,BRA,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1086.99299318566
+Brazil,BRA,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1081.36193393467
+Brazil,BRA,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1091.29495874763
+Brazil,BRA,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1082.21810429873
+Brazil,BRA,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1072.29461426603
+Brazil,BRA,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1035.82555427523
+Brazil,BRA,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,998.777374735819
+Brazil,BRA,1994,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,980.074664998028
+Brazil,BRA,1993,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,945.489101780969
+Brazil,BRA,1992,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,937.431462820155
+Brazil,BRA,1991,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,943.263545697103
+Brazil,BRA,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,942.317182249676
+Brazil,BRA,2011,Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ,4.5
+Brazil,BRA,2009,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,0.482451027992547
+Brazil,BRA,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.491261826581888
+Brazil,BRA,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.50302986740275
+Brazil,BRA,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.534227824917072
+Brazil,BRA,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.74176208411886
+Brazil,BRA,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.57082762408343
+Brazil,BRA,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.43731684318793
+Brazil,BRA,2015,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,2.23302391070075
+Brazil,BRA,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,2.07385749148618
+Brazil,BRA,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,1.971544668105
+Brazil,BRA,2024,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,44.0995746702503
+Brazil,BRA,2023,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,43.8732652097644
+Brazil,BRA,2022,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,43.6221258395756
+Brazil,BRA,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,43.3358385075804
+Brazil,BRA,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,43.05981905316
+Brazil,BRA,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,42.834001297599
+Brazil,BRA,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,42.6304296965064
+Brazil,BRA,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,42.3116254833914
+Brazil,BRA,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,42.0150592481141
+Brazil,BRA,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,41.7340205652712
+Brazil,BRA,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,41.469023332254
+Brazil,BRA,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,41.2127232106115
+Brazil,BRA,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,40.961515640666
+Brazil,BRA,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,40.7116620800477
+Brazil,BRA,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,40.4626290531159
+Brazil,BRA,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,40.1911691449776
+Brazil,BRA,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.9453279009018
+Brazil,BRA,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.7251961683632
+Brazil,BRA,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.5304587109309
+Brazil,BRA,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.3560817434579
+Brazil,BRA,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.1990567649371
+Brazil,BRA,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.0553760333807
+Brazil,BRA,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.9336378442899
+Brazil,BRA,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.8370730516229
+Brazil,BRA,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.7409341278292
+Brazil,BRA,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.3991386048073
+Brazil,BRA,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.0961352752818
+Brazil,BRA,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,37.8108818657565
+Brazil,BRA,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,37.5319666931602
+Brazil,BRA,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,37.2665556592045
+Brazil,BRA,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,37.0167631174421
+Brazil,BRA,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,36.7809168553068
+Brazil,BRA,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,36.5716649543897
+Brazil,BRA,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,36.3511546894651
+Brazil,BRA,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,36.0070976875698
+Brazil,BRA,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,35.6967277087048
+Brazil,BRA,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,35.4160183588603
+Brazil,BRA,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,35.1635042638903
+Brazil,BRA,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,34.9440989379727
+Brazil,BRA,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,34.7584497562808
+Brazil,BRA,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,34.6044271870141
+Brazil,BRA,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,34.4728333892583
+Brazil,BRA,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,34.3642064365639
+Brazil,BRA,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,34.27643506822
+Brazil,BRA,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,34.0926661272114
+Brazil,BRA,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,33.3495735766185
+Brazil,BRA,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,32.6387478745632
+Brazil,BRA,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,31.9545494509108
+Brazil,BRA,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,31.2948588469079
+Brazil,BRA,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,30.6513188377968
+Brazil,BRA,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,30.0296361179155
+Brazil,BRA,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,29.4331654310969
+Brazil,BRA,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,28.8644478564801
+Brazil,BRA,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,28.3137352576789
+Brazil,BRA,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,27.7298594795437
+Brazil,BRA,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.9044601562089
+Brazil,BRA,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.1211980352043
+Brazil,BRA,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.3766982485292
+Brazil,BRA,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.6809382456631
+Brazil,BRA,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.0311582356175
+Brazil,BRA,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.4253124624372
+Brazil,BRA,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.8534590146674
+Brazil,BRA,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.3135769558921
+Brazil,BRA,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.7988078001865
+Brazil,BRA,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.3133490981656
+Brazil,BRA,2022,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,67.94
+Brazil,BRA,2021,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,67.31
+Brazil,BRA,2020,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,67.07997
+Brazil,BRA,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,67.44
+Brazil,BRA,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,66.5
+Brazil,BRA,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,65.68
+Brazil,BRA,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,66.31
+Brazil,BRA,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,63.86
+Brazil,BRA,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,65.022
+Brazil,BRA,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,67.405375
+Brazil,BRA,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,69.8605
+Brazil,BRA,2011,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,72.315625
+Brazil,BRA,2010,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,74.77075
+Brazil,BRA,2009,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,70.585875
+Brazil,BRA,2008,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,66.401
+Brazil,BRA,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,62.22
+Brazil,BRA,2006,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,58.03
+Brazil,BRA,2005,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,57.71
+Brazil,BRA,2004,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,57.39
+Brazil,BRA,2003,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,57.07
+Brazil,BRA,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,56.75
+Brazil,BRA,2001,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,56.43
+Brazil,BRA,2000,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,56.11
+Brazil,BRA,1999,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,55.79
+Brazil,BRA,1998,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,55.47
+Brazil,BRA,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,55.15
+Brazil,BRA,1996,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,54.83
+Brazil,BRA,1995,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,52.66666667
+Brazil,BRA,1994,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,50.46333333
+Brazil,BRA,1993,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,48.26
+Brazil,BRA,1992,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,46.05666667
+Brazil,BRA,1991,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,43.85333333
+Brazil,BRA,1990,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,41.65
+Brazil,BRA,1989,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,39.44666667
+Brazil,BRA,1988,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,37.24333333
+Brazil,BRA,1987,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.04
+Brazil,BRA,2022,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.20014131778838
+Brazil,BRA,2021,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.18901254195372
+Brazil,BRA,2020,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.18494912559618
+Brazil,BRA,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.19130895601484
+Brazil,BRA,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.17470411588059
+Brazil,BRA,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.16021904257198
+Brazil,BRA,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.17134781840664
+Brazil,BRA,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.1280692457163
+Brazil,BRA,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.14859565447801
+Brazil,BRA,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.19069731496202
+Brazil,BRA,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.23406641936054
+Brazil,BRA,2011,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.27743552375905
+Brazil,BRA,2010,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.32080462815757
+Brazil,BRA,2009,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.2468799682035
+Brazil,BRA,2008,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.17295530824943
+Brazil,BRA,2007,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.0990990990991
+Brazil,BRA,2006,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.02508390743685
+Brazil,BRA,2005,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.01943119590178
+Brazil,BRA,2004,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.01377848436672
+Brazil,BRA,2003,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.00812577283166
+Brazil,BRA,2002,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.00247306129659
+Brazil,BRA,2001,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.996820349761526
+Brazil,BRA,2000,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.991167638226462
+Brazil,BRA,1999,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.985514926691397
+Brazil,BRA,1998,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.979862215156333
+Brazil,BRA,1997,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.974209503621268
+Brazil,BRA,1996,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.968556792086204
+Brazil,BRA,1995,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.930342106871577
+Brazil,BRA,1994,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.891420832538421
+Brazil,BRA,1993,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.852499558381911
+Brazil,BRA,1992,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.813578284225402
+Brazil,BRA,1991,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.774657009892245
+Brazil,BRA,1990,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.735735735735736
+Brazil,BRA,1989,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.696814461579226
+Brazil,BRA,1988,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.657893187246069
+Brazil,BRA,1987,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.61897191308956
+Brazil,BRA,2024,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.6
+Brazil,BRA,2023,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.6
+Brazil,BRA,2022,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.3
+Brazil,BRA,2021,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.3
+Brazil,BRA,2020,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.3
+Brazil,BRA,2019,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,30.3
+Brazil,BRA,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,29.4
+Brazil,BRA,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,28.9
+Brazil,BRA,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,28.9
+Brazil,BRA,2015,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,28.5
+Brazil,BRA,2014,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,28.5
+Brazil,BRA,2013,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,26.4
+Brazil,BRA,2024,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,26.6
+Brazil,BRA,2023,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,26.8
+Brazil,BRA,2022,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,26.8
+Brazil,BRA,2021,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,26.8
+Brazil,BRA,2020,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,26.8
+Brazil,BRA,2019,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,26.8
+Brazil,BRA,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,26.6
+Brazil,BRA,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,1.7
+Brazil,BRA,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,1.7
+Brazil,BRA,2015,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,1.6
+Brazil,BRA,2014,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,1.6
+Brazil,BRA,2013,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,1.3
+Brazil,BRA,2024,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,29.4
+Brazil,BRA,2023,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,29.5
+Brazil,BRA,2022,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,29.3
+Brazil,BRA,2021,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,29.3
+Brazil,BRA,2020,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,29.2
+Brazil,BRA,2019,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,29.2
+Brazil,BRA,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,28.6
+Brazil,BRA,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,20.7
+Brazil,BRA,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,20.7
+Brazil,BRA,2015,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,20.4
+Brazil,BRA,2014,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,20.4
+Brazil,BRA,2013,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,18.9
+Brazil,BRA,2024,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.57967431437384
+Brazil,BRA,2023,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.02306023526246
+Brazil,BRA,2022,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.76747490819457
+Brazil,BRA,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.5587626121061
+Brazil,BRA,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.71148511499007
+Brazil,BRA,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.20501409463474
+Brazil,BRA,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.4203993038464
+Brazil,BRA,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.60059169568986
+Brazil,BRA,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.89135358790863
+Brazil,BRA,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.31914942964047
+Brazil,BRA,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.32561053879483
+Brazil,BRA,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.50688618256533
+Brazil,BRA,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.16832822439069
+Brazil,BRA,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.34203412783304
+Brazil,BRA,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.11575648779356
+Brazil,BRA,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.47677399209847
+Brazil,BRA,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.56785118025741
+Brazil,BRA,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.41691543634403
+Brazil,BRA,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.3700437788908
+Brazil,BRA,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.65116882283132
+Brazil,BRA,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.66531157603221
+Brazil,BRA,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.1671843856504
+Brazil,BRA,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.47527489339298
+Brazil,BRA,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.80104301642181
+Brazil,BRA,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.75045997570861
+Brazil,BRA,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.64598154008681
+Brazil,BRA,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.7500447835131
+Brazil,BRA,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.68504702949228
+Brazil,BRA,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.76841121077967
+Brazil,BRA,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.01166646465693
+Brazil,BRA,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.72198937517673
+Brazil,BRA,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.77810923883982
+Brazil,BRA,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.80608488408303
+Brazil,BRA,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.84138937730153
+Brazil,BRA,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.96343671917276
+Brazil,BRA,1989,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.44158737716968
+Brazil,BRA,1988,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.79723660427779
+Brazil,BRA,1987,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.36152021128553
+Brazil,BRA,1986,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.3636386654384
+Brazil,BRA,1985,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.1453640115501
+Brazil,BRA,1984,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.8573320632089
+Brazil,BRA,1983,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.0561007922548
+Brazil,BRA,1982,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.6490539026237
+Brazil,BRA,1981,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.4508006149716
+Brazil,BRA,1980,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1979,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1978,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1977,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1976,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1975,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1974,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1973,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1972,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1971,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1970,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1969,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1968,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1967,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1966,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1965,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1964,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1963,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1962,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1961,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,1960,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0
+Brazil,BRA,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00648999214172
+Brazil,BRA,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00990998744965
+Brazil,BRA,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00668001174927
+Brazil,BRA,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00513005256653
+Brazil,BRA,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00854003429413
+Brazil,BRA,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01473999023438
+Brazil,BRA,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01811003684998
+Brazil,BRA,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01664996147156
+Brazil,BRA,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02224004268646
+Brazil,BRA,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02467000484467
+Brazil,BRA,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04416000843048
+Brazil,BRA,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.03873002529144
+Brazil,BRA,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04399001598358
+Brazil,BRA,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.02884995937347
+Brazil,BRA,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.03352999687195
+Brazil,BRA,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.03544998168945
+Brazil,BRA,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0129599571228
+Brazil,BRA,2023,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.4
+Brazil,BRA,2022,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.6
+Brazil,BRA,2021,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.7
+Brazil,BRA,2020,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.9
+Brazil,BRA,2019,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15
+Brazil,BRA,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.2
+Brazil,BRA,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.4
+Brazil,BRA,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,16.8
+Brazil,BRA,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,16
+Brazil,BRA,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,16.3
+Brazil,BRA,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,16.7
+Brazil,BRA,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,17.2
+Brazil,BRA,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,17.9
+Brazil,BRA,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,18.6
+Brazil,BRA,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,19.5
+Brazil,BRA,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,20.5
+Brazil,BRA,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,21.7
+Brazil,BRA,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,23.1
+Brazil,BRA,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,24.6
+Brazil,BRA,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,26.3
+Brazil,BRA,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,28.1
+Brazil,BRA,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,30.1
+Brazil,BRA,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,32.2
+Brazil,BRA,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,34.5
+Brazil,BRA,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,36.8
+Brazil,BRA,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,39.3
+Brazil,BRA,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,41.9
+Brazil,BRA,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,44.7
+Brazil,BRA,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,47.7
+Brazil,BRA,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,50.9
+Brazil,BRA,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,54.1
+Brazil,BRA,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,57.2
+Brazil,BRA,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,60.2
+Brazil,BRA,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,63.1
+Brazil,BRA,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,65.8
+Brazil,BRA,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,68.4
+Brazil,BRA,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,71.1
+Brazil,BRA,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,73.8
+Brazil,BRA,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,76.7
+Brazil,BRA,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,79.8
+Brazil,BRA,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,83.4
+Brazil,BRA,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,87.3
+Brazil,BRA,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,91.4
+Brazil,BRA,1980,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,95.7
+Brazil,BRA,1979,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,100.1
+Brazil,BRA,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,104.3
+Brazil,BRA,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,108.3
+Brazil,BRA,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,112.1
+Brazil,BRA,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,115.6
+Brazil,BRA,1974,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,118.9
+Brazil,BRA,1973,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,122.1
+Brazil,BRA,1972,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,125.5
+Brazil,BRA,1971,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,128.9
+Brazil,BRA,1970,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,132.2
+Brazil,BRA,1969,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,135.5
+Brazil,BRA,1968,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,138.8
+Brazil,BRA,1967,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,141.9
+Brazil,BRA,1966,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,145.2
+Brazil,BRA,1965,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,148.6
+Brazil,BRA,1964,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,152.2
+Brazil,BRA,1963,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,156.1
+Brazil,BRA,1962,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,160.3
+Brazil,BRA,1961,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,164.7
+Brazil,BRA,1960,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,169.4
+Brazil,BRA,2019,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,3.5
+Brazil,BRA,2007,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,2.2
+Brazil,BRA,1996,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,4.5
+Brazil,BRA,1989,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,5.6
+Brazil,BRA,2023,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,3.8
+Brazil,BRA,2022,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,4.9
+Brazil,BRA,2021,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,7.5
+Brazil,BRA,2020,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2.8
+Brazil,BRA,2019,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,7
+Brazil,BRA,2018,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,6.9
+Brazil,BRA,2017,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,6.9
+Brazil,BRA,2016,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,6.5
+Brazil,BRA,2015,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,5.4
+Brazil,BRA,2014,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,4.7
+Brazil,BRA,2013,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,5.4
+Brazil,BRA,2012,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,6.4
+Brazil,BRA,2011,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,7.1
+Brazil,BRA,2009,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,8.4
+Brazil,BRA,2008,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,9.1
+Brazil,BRA,2007,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,10.8
+Brazil,BRA,2006,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,11.4
+Brazil,BRA,2005,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,13.7
+Brazil,BRA,2004,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,15.3
+Brazil,BRA,2003,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,17.1
+Brazil,BRA,2002,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,16.2
+Brazil,BRA,2001,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,17.5
+Brazil,BRA,1999,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,20
+Brazil,BRA,1998,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,19.1
+Brazil,BRA,1997,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,20.4
+Brazil,BRA,1996,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,20.7
+Brazil,BRA,1995,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,19.5
+Brazil,BRA,1993,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,28.2
+Brazil,BRA,1992,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,29.4
+Brazil,BRA,1990,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,30.3
+Brazil,BRA,1989,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,25.7
+Brazil,BRA,1988,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,28.1
+Brazil,BRA,1987,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,25.5
+Brazil,BRA,1986,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,16.7
+Brazil,BRA,1985,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,32.4
+Brazil,BRA,1984,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,36.9
+Brazil,BRA,1983,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,37.7
+Brazil,BRA,1982,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,31
+Brazil,BRA,1981,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,30.7
+Brazil,BRA,2024,Population growth (annual %),SP.POP.GROW,0.405467027627251
+Brazil,BRA,2023,Population growth (annual %),SP.POP.GROW,0.395928695574996
+Brazil,BRA,2022,Population growth (annual %),SP.POP.GROW,0.360180890872169
+Brazil,BRA,2021,Population growth (annual %),SP.POP.GROW,0.425360907216456
+Brazil,BRA,2020,Population growth (annual %),SP.POP.GROW,0.579350709708032
+Brazil,BRA,2019,Population growth (annual %),SP.POP.GROW,0.651994346081362
+Brazil,BRA,2018,Population growth (annual %),SP.POP.GROW,0.683439571425594
+Brazil,BRA,2017,Population growth (annual %),SP.POP.GROW,0.72824666001736
+Brazil,BRA,2016,Population growth (annual %),SP.POP.GROW,0.761972670496742
+Brazil,BRA,2015,Population growth (annual %),SP.POP.GROW,0.791721773592796
+Brazil,BRA,2014,Population growth (annual %),SP.POP.GROW,0.806314177734439
+Brazil,BRA,2013,Population growth (annual %),SP.POP.GROW,0.810511647523289
+Brazil,BRA,2012,Population growth (annual %),SP.POP.GROW,0.811598483382088
+Brazil,BRA,2011,Population growth (annual %),SP.POP.GROW,0.81381388423754
+Brazil,BRA,2010,Population growth (annual %),SP.POP.GROW,0.84088322514573
+Brazil,BRA,2009,Population growth (annual %),SP.POP.GROW,0.895632239477021
+Brazil,BRA,2008,Population growth (annual %),SP.POP.GROW,0.957984635895359
+Brazil,BRA,2007,Population growth (annual %),SP.POP.GROW,1.01236820635667
+Brazil,BRA,2006,Population growth (annual %),SP.POP.GROW,1.05833842529955
+Brazil,BRA,2005,Population growth (annual %),SP.POP.GROW,1.09590612526605
+Brazil,BRA,2004,Population growth (annual %),SP.POP.GROW,1.12991417032023
+Brazil,BRA,2003,Population growth (annual %),SP.POP.GROW,1.18021395482771
+Brazil,BRA,2002,Population growth (annual %),SP.POP.GROW,1.24142062598122
+Brazil,BRA,2001,Population growth (annual %),SP.POP.GROW,1.30335503159977
+Brazil,BRA,2000,Population growth (annual %),SP.POP.GROW,1.37521128317928
+Brazil,BRA,1999,Population growth (annual %),SP.POP.GROW,1.45652767159292
+Brazil,BRA,1998,Population growth (annual %),SP.POP.GROW,1.48772098102752
+Brazil,BRA,1997,Population growth (annual %),SP.POP.GROW,1.48650426533337
+Brazil,BRA,1996,Population growth (annual %),SP.POP.GROW,1.51410759163045
+Brazil,BRA,1995,Population growth (annual %),SP.POP.GROW,1.53901255207011
+Brazil,BRA,1994,Population growth (annual %),SP.POP.GROW,1.56329973533197
+Brazil,BRA,1993,Population growth (annual %),SP.POP.GROW,1.61992855794359
+Brazil,BRA,1992,Population growth (annual %),SP.POP.GROW,1.66724681782032
+Brazil,BRA,1991,Population growth (annual %),SP.POP.GROW,1.71576956519978
+Brazil,BRA,1990,Population growth (annual %),SP.POP.GROW,1.78613575086263
+Brazil,BRA,1989,Population growth (annual %),SP.POP.GROW,1.84389971585717
+Brazil,BRA,1988,Population growth (annual %),SP.POP.GROW,1.91028205578332
+Brazil,BRA,1987,Population growth (annual %),SP.POP.GROW,1.98157140954846
+Brazil,BRA,1986,Population growth (annual %),SP.POP.GROW,2.0601457180807
+Brazil,BRA,1985,Population growth (annual %),SP.POP.GROW,2.13058251317121
+Brazil,BRA,1984,Population growth (annual %),SP.POP.GROW,2.18625478508242
+Brazil,BRA,1983,Population growth (annual %),SP.POP.GROW,2.23365283811212
+Brazil,BRA,1982,Population growth (annual %),SP.POP.GROW,2.27914448988333
+Brazil,BRA,1981,Population growth (annual %),SP.POP.GROW,2.328674853913
+Brazil,BRA,1980,Population growth (annual %),SP.POP.GROW,2.35969066147983
+Brazil,BRA,1979,Population growth (annual %),SP.POP.GROW,2.37626195376506
+Brazil,BRA,1978,Population growth (annual %),SP.POP.GROW,2.38605063277526
+Brazil,BRA,1977,Population growth (annual %),SP.POP.GROW,2.38655749823333
+Brazil,BRA,1976,Population growth (annual %),SP.POP.GROW,2.38155616304412
+Brazil,BRA,1975,Population growth (annual %),SP.POP.GROW,2.37884287680594
+Brazil,BRA,1974,Population growth (annual %),SP.POP.GROW,2.39665879234277
+Brazil,BRA,1973,Population growth (annual %),SP.POP.GROW,2.42103657885576
+Brazil,BRA,1972,Population growth (annual %),SP.POP.GROW,2.43336258601704
+Brazil,BRA,1971,Population growth (annual %),SP.POP.GROW,2.44801384438618
+Brazil,BRA,1970,Population growth (annual %),SP.POP.GROW,2.47317174130758
+Brazil,BRA,1969,Population growth (annual %),SP.POP.GROW,2.50796582962001
+Brazil,BRA,1968,Population growth (annual %),SP.POP.GROW,2.56183412825181
+Brazil,BRA,1967,Population growth (annual %),SP.POP.GROW,2.64271600538347
+Brazil,BRA,1966,Population growth (annual %),SP.POP.GROW,2.73236317426946
+Brazil,BRA,1965,Population growth (annual %),SP.POP.GROW,2.81797346768923
+Brazil,BRA,1964,Population growth (annual %),SP.POP.GROW,2.89384532588109
+Brazil,BRA,1963,Population growth (annual %),SP.POP.GROW,2.94697800169989
+Brazil,BRA,1962,Population growth (annual %),SP.POP.GROW,2.98413178984127
+Brazil,BRA,1961,Population growth (annual %),SP.POP.GROW,3.01712402135294
+Brazil,BRA,2024,"Population, total",SP.POP.TOTL,211998573
+Brazil,BRA,2023,"Population, total",SP.POP.TOTL,211140729
+Brazil,BRA,2022,"Population, total",SP.POP.TOTL,210306415
+Brazil,BRA,2021,"Population, total",SP.POP.TOTL,209550294
+Brazil,BRA,2020,"Population, total",SP.POP.TOTL,208660842
+Brazil,BRA,2019,"Population, total",SP.POP.TOTL,207455459
+Brazil,BRA,2018,"Population, total",SP.POP.TOTL,206107261
+Brazil,BRA,2017,"Population, total",SP.POP.TOTL,204703445
+Brazil,BRA,2016,"Population, total",SP.POP.TOTL,203218114
+Brazil,BRA,2015,"Population, total",SP.POP.TOTL,201675532
+Brazil,BRA,2014,"Population, total",SP.POP.TOTL,200085127
+Brazil,BRA,2013,"Population, total",SP.POP.TOTL,198478299
+Brazil,BRA,2012,"Population, total",SP.POP.TOTL,196876111
+Brazil,BRA,2011,"Population, total",SP.POP.TOTL,195284734
+Brazil,BRA,2010,"Population, total",SP.POP.TOTL,193701929
+Brazil,BRA,2009,"Population, total",SP.POP.TOTL,192079951
+Brazil,BRA,2008,"Population, total",SP.POP.TOTL,190367302
+Brazil,BRA,2007,"Population, total",SP.POP.TOTL,188552320
+Brazil,BRA,2006,"Population, total",SP.POP.TOTL,186653106
+Brazil,BRA,2005,"Population, total",SP.POP.TOTL,184688101
+Brazil,BRA,2004,"Population, total",SP.POP.TOTL,182675143
+Brazil,BRA,2003,"Population, total",SP.POP.TOTL,180622688
+Brazil,BRA,2002,"Population, total",SP.POP.TOTL,178503484
+Brazil,BRA,2001,"Population, total",SP.POP.TOTL,176301203
+Brazil,BRA,2000,"Population, total",SP.POP.TOTL,174018282
+Brazil,BRA,1999,"Population, total",SP.POP.TOTL,171641543
+Brazil,BRA,1998,"Population, total",SP.POP.TOTL,169159655
+Brazil,BRA,1997,"Population, total",SP.POP.TOTL,166661659
+Brazil,BRA,1996,"Population, total",SP.POP.TOTL,164202549
+Brazil,BRA,1995,"Population, total",SP.POP.TOTL,161735073
+Brazil,BRA,1994,"Population, total",SP.POP.TOTL,159265006
+Brazil,BRA,1993,"Population, total",SP.POP.TOTL,156794577
+Brazil,BRA,1992,"Population, total",SP.POP.TOTL,154275079
+Brazil,BRA,1991,"Population, total",SP.POP.TOTL,151724256
+Brazil,BRA,1990,"Population, total",SP.POP.TOTL,149143223
+Brazil,BRA,1989,"Population, total",SP.POP.TOTL,146502972
+Brazil,BRA,1988,"Population, total",SP.POP.TOTL,143826357
+Brazil,BRA,1987,"Population, total",SP.POP.TOTL,141104944
+Brazil,BRA,1986,"Population, total",SP.POP.TOTL,138336370
+Brazil,BRA,1985,"Population, total",SP.POP.TOTL,135515595
+Brazil,BRA,1984,"Population, total",SP.POP.TOTL,132658864
+Brazil,BRA,1983,"Population, total",SP.POP.TOTL,129790077
+Brazil,BRA,1982,"Population, total",SP.POP.TOTL,126923155
+Brazil,BRA,1981,"Population, total",SP.POP.TOTL,124063109
+Brazil,BRA,1980,"Population, total",SP.POP.TOTL,121207461
+Brazil,BRA,1979,"Population, total",SP.POP.TOTL,118380821
+Brazil,BRA,1978,"Population, total",SP.POP.TOTL,115600942
+Brazil,BRA,1977,"Population, total",SP.POP.TOTL,112875292
+Brazil,BRA,1976,"Population, total",SP.POP.TOTL,110213349
+Brazil,BRA,1975,"Population, total",SP.POP.TOTL,107619565
+Brazil,BRA,1974,"Population, total",SP.POP.TOTL,105089675
+Brazil,BRA,1973,"Population, total",SP.POP.TOTL,102600976
+Brazil,BRA,1972,"Population, total",SP.POP.TOTL,100146797
+Brazil,BRA,1971,"Population, total",SP.POP.TOTL,97739273
+Brazil,BRA,1970,"Population, total",SP.POP.TOTL,95375651
+Brazil,BRA,1969,"Population, total",SP.POP.TOTL,93045777
+Brazil,BRA,1968,"Population, total",SP.POP.TOTL,90741240
+Brazil,BRA,1967,"Population, total",SP.POP.TOTL,88446124
+Brazil,BRA,1966,"Population, total",SP.POP.TOTL,86139359
+Brazil,BRA,1965,"Population, total",SP.POP.TOTL,83817583
+Brazil,BRA,1964,"Population, total",SP.POP.TOTL,81488595
+Brazil,BRA,1963,"Population, total",SP.POP.TOTL,79164235
+Brazil,BRA,1962,"Population, total",SP.POP.TOTL,76865323
+Brazil,BRA,1961,"Population, total",SP.POP.TOTL,74605447
+Brazil,BRA,1960,"Population, total",SP.POP.TOTL,72388126
+Brazil,BRA,2024,Urban population growth (annual %),SP.URB.GROW,0.664847024770479
+Brazil,BRA,2023,Urban population growth (annual %),SP.URB.GROW,0.661693384781811
+Brazil,BRA,2022,Urban population growth (annual %),SP.URB.GROW,0.632380457299841
+Brazil,BRA,2021,Urban population growth (annual %),SP.URB.GROW,0.705193508220296
+Brazil,BRA,2020,Urban population growth (annual %),SP.URB.GROW,0.865727194353952
+Brazil,BRA,2019,Urban population growth (annual %),SP.URB.GROW,0.946124107128195
+Brazil,BRA,2018,Urban population growth (annual %),SP.URB.GROW,0.984230272153901
+Brazil,BRA,2017,Urban population growth (annual %),SP.URB.GROW,1.03807935231539
+Brazil,BRA,2016,Urban population growth (annual %),SP.URB.GROW,1.07859816711026
+Brazil,BRA,2015,Urban population growth (annual %),SP.URB.GROW,1.11637082854403
+Brazil,BRA,2014,Urban population growth (annual %),SP.URB.GROW,1.13788841352877
+Brazil,BRA,2013,Urban population growth (annual %),SP.URB.GROW,1.14672146411561
+Brazil,BRA,2012,Urban population growth (annual %),SP.URB.GROW,1.1560321587722
+Brazil,BRA,2011,Urban population growth (annual %),SP.URB.GROW,1.16418033957726
+Brazil,BRA,2010,Urban population growth (annual %),SP.URB.GROW,1.18653249375701
+Brazil,BRA,2009,Urban population growth (annual %),SP.URB.GROW,1.24725616163025
+Brazil,BRA,2008,Urban population growth (annual %),SP.URB.GROW,1.31803948356507
+Brazil,BRA,2007,Urban population growth (annual %),SP.URB.GROW,1.37853480848858
+Brazil,BRA,2006,Urban population growth (annual %),SP.URB.GROW,1.4306793790017
+Brazil,BRA,2005,Urban population growth (annual %),SP.URB.GROW,1.47448610796235
+Brazil,BRA,2004,Urban population growth (annual %),SP.URB.GROW,1.51601534447988
+Brazil,BRA,2003,Urban population growth (annual %),SP.URB.GROW,1.57391729845956
+Brazil,BRA,2002,Urban population growth (annual %),SP.URB.GROW,1.64158540478857
+Brazil,BRA,2001,Urban population growth (annual %),SP.URB.GROW,1.74699418454315
+Brazil,BRA,2000,Urban population growth (annual %),SP.URB.GROW,2.23613458971741
+Brazil,BRA,1999,Urban population growth (annual %),SP.URB.GROW,2.3487388950208
+Brazil,BRA,1998,Urban population growth (annual %),SP.URB.GROW,2.41073267176553
+Brazil,BRA,1997,Urban population growth (annual %),SP.URB.GROW,2.43471578872819
+Brazil,BRA,1996,Urban population growth (annual %),SP.URB.GROW,2.40179383801153
+Brazil,BRA,1995,Urban population growth (annual %),SP.URB.GROW,2.45415181370405
+Brazil,BRA,1994,Urban population growth (annual %),SP.URB.GROW,2.50657981215872
+Brazil,BRA,1993,Urban population growth (annual %),SP.URB.GROW,2.59207132045709
+Brazil,BRA,1992,Urban population growth (annual %),SP.URB.GROW,2.67169147199125
+Brazil,BRA,1991,Urban population growth (annual %),SP.URB.GROW,2.7493431260959
+Brazil,BRA,1990,Urban population growth (annual %),SP.URB.GROW,2.8510094875306
+Brazil,BRA,1989,Urban population growth (annual %),SP.URB.GROW,2.93958686360947
+Brazil,BRA,1988,Urban population growth (annual %),SP.URB.GROW,3.0404734208939
+Brazil,BRA,1987,Urban population growth (annual %),SP.URB.GROW,3.14306639911222
+Brazil,BRA,1986,Urban population growth (annual %),SP.URB.GROW,3.25675973805619
+Brazil,BRA,1985,Urban population growth (annual %),SP.URB.GROW,3.35762718837467
+Brazil,BRA,1984,Urban population growth (annual %),SP.URB.GROW,3.45202088843328
+Brazil,BRA,1983,Urban population growth (annual %),SP.URB.GROW,3.53348415797127
+Brazil,BRA,1982,Urban population growth (annual %),SP.URB.GROW,3.61417500183012
+Brazil,BRA,1981,Urban population growth (annual %),SP.URB.GROW,3.6970411218953
+Brazil,BRA,1980,Urban population growth (annual %),SP.URB.GROW,3.77027735775023
+Brazil,BRA,1979,Urban population growth (annual %),SP.URB.GROW,3.82117615231472
+Brazil,BRA,1978,Urban population growth (annual %),SP.URB.GROW,3.86809800227282
+Brazil,BRA,1977,Urban population growth (annual %),SP.URB.GROW,3.90385758606225
+Brazil,BRA,1976,Urban population growth (annual %),SP.URB.GROW,3.94197112747791
+Brazil,BRA,1975,Urban population growth (annual %),SP.URB.GROW,3.97569250730828
+Brazil,BRA,1974,Urban population growth (annual %),SP.URB.GROW,4.03301527172036
+Brazil,BRA,1973,Urban population growth (annual %),SP.URB.GROW,4.09325198431431
+Brazil,BRA,1972,Urban population growth (annual %),SP.URB.GROW,4.149836886917
+Brazil,BRA,1971,Urban population growth (annual %),SP.URB.GROW,4.19446519232327
+Brazil,BRA,1970,Urban population growth (annual %),SP.URB.GROW,4.22154087595581
+Brazil,BRA,1969,Urban population growth (annual %),SP.URB.GROW,4.28930092615104
+Brazil,BRA,1968,Urban population growth (annual %),SP.URB.GROW,4.38868543823116
+Brazil,BRA,1967,Urban population growth (annual %),SP.URB.GROW,4.503561486392
+Brazil,BRA,1966,Urban population growth (annual %),SP.URB.GROW,4.63241320876114
+Brazil,BRA,1965,Urban population growth (annual %),SP.URB.GROW,4.75282830091185
+Brazil,BRA,1964,Urban population growth (annual %),SP.URB.GROW,4.87299059501296
+Brazil,BRA,1963,Urban population growth (annual %),SP.URB.GROW,4.96192479886667
+Brazil,BRA,1962,Urban population growth (annual %),SP.URB.GROW,5.0362721830776
+Brazil,BRA,1961,Urban population growth (annual %),SP.URB.GROW,5.1252665291253
+Brazil,BRA,2024,Urban population,SP.URB.TOTL,186592664
+Brazil,BRA,2023,Urban population,SP.URB.TOTL,185356223
+Brazil,BRA,2022,Urban population,SP.URB.TOTL,184133782
+Brazil,BRA,2021,Urban population,SP.URB.TOTL,182973030
+Brazil,BRA,2020,Urban population,SP.URB.TOTL,181687255
+Brazil,BRA,2019,Urban population,SP.URB.TOTL,180121128
+Brazil,BRA,2018,Urban population,SP.URB.TOTL,178424995
+Brazil,BRA,2017,Urban population,SP.URB.TOTL,176677496
+Brazil,BRA,2016,Urban population,SP.URB.TOTL,174852930
+Brazil,BRA,2015,Urban population,SP.URB.TOTL,172977104
+Brazil,BRA,2014,Urban population,SP.URB.TOTL,171056777
+Brazil,BRA,2013,Urban population,SP.URB.TOTL,169121374
+Brazil,BRA,2012,Urban population,SP.URB.TOTL,167193100
+Brazil,BRA,2011,Urban population,SP.URB.TOTL,165271423
+Brazil,BRA,2010,Urban population,SP.URB.TOTL,163358522
+Brazil,BRA,2009,Urban population,SP.URB.TOTL,161431674
+Brazil,BRA,2008,Urban population,SP.URB.TOTL,159430712
+Brazil,BRA,2007,Urban population,SP.URB.TOTL,157343140
+Brazil,BRA,2006,Urban population,SP.URB.TOTL,155188992
+Brazil,BRA,2005,Urban population,SP.URB.TOTL,152984542
+Brazil,BRA,2004,Urban population,SP.URB.TOTL,150745355
+Brazil,BRA,2003,Urban population,SP.URB.TOTL,148477268
+Brazil,BRA,2002,Urban population,SP.URB.TOTL,146158653
+Brazil,BRA,2001,Urban population,SP.URB.TOTL,143778920
+Brazil,BRA,2000,Urban population,SP.URB.TOTL,141288924
+Brazil,BRA,1999,Urban population,SP.URB.TOTL,138164576
+Brazil,BRA,1998,Urban population,SP.URB.TOTL,134957264
+Brazil,BRA,1997,Urban population,SP.URB.TOTL,131742708
+Brazil,BRA,1996,Urban population,SP.URB.TOTL,128573880
+Brazil,BRA,1995,Urban population,SP.URB.TOTL,125522590
+Brazil,BRA,1994,Urban population,SP.URB.TOTL,122479568
+Brazil,BRA,1993,Urban population,SP.URB.TOTL,119447677
+Brazil,BRA,1992,Urban population,SP.URB.TOTL,116391291
+Brazil,BRA,1991,Urban population,SP.URB.TOTL,113322847
+Brazil,BRA,1990,Urban population,SP.URB.TOTL,110249653
+Brazil,BRA,1989,Urban population,SP.URB.TOTL,107150809
+Brazil,BRA,1988,Urban population,SP.URB.TOTL,104046863
+Brazil,BRA,1987,Urban population,SP.URB.TOTL,100930955
+Brazil,BRA,1986,Urban population,SP.URB.TOTL,97807964
+Brazil,BRA,1985,Urban population,SP.URB.TOTL,94673905
+Brazil,BRA,1984,Urban population,SP.URB.TOTL,91547882
+Brazil,BRA,1983,Urban population,SP.URB.TOTL,88441554
+Brazil,BRA,1982,Urban population,SP.URB.TOTL,85371053
+Brazil,BRA,1981,Urban population,SP.URB.TOTL,82340685
+Brazil,BRA,1980,Urban population,SP.URB.TOTL,79352101
+Brazil,BRA,1979,Urban population,SP.URB.TOTL,76416004
+Brazil,BRA,1978,Urban population,SP.URB.TOTL,73551099
+Brazil,BRA,1977,Urban population,SP.URB.TOTL,70760392
+Brazil,BRA,1976,Urban population,SP.URB.TOTL,68051232
+Brazil,BRA,1975,Urban population,SP.URB.TOTL,65420857
+Brazil,BRA,1974,Urban population,SP.URB.TOTL,62870949
+Brazil,BRA,1973,Urban population,SP.URB.TOTL,60385804
+Brazil,BRA,1972,Urban population,SP.URB.TOTL,57963965
+Brazil,BRA,1971,Urban population,SP.URB.TOTL,55607782
+Brazil,BRA,1970,Urban population,SP.URB.TOTL,53323573
+Brazil,BRA,1969,Urban population,SP.URB.TOTL,51119350
+Brazil,BRA,1968,Urban population,SP.URB.TOTL,48973047
+Brazil,BRA,1967,Urban population,SP.URB.TOTL,46870254
+Brazil,BRA,1966,Urban population,SP.URB.TOTL,44806249
+Brazil,BRA,1965,Urban population,SP.URB.TOTL,42777980
+Brazil,BRA,1964,Urban population,SP.URB.TOTL,40792376
+Brazil,BRA,1963,Urban population,SP.URB.TOTL,38852223
+Brazil,BRA,1962,Urban population,SP.URB.TOTL,36971452
+Brazil,BRA,1961,Urban population,SP.URB.TOTL,35155579
+Brazil,BRA,1960,Urban population,SP.URB.TOTL,33399157
+Brazil,BRA,2024,Urban population (% of total population),SP.URB.TOTL.IN.ZS,88.016
+Brazil,BRA,2023,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.788
+Brazil,BRA,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.555
+Brazil,BRA,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.317
+Brazil,BRA,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.073
+Brazil,BRA,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.824
+Brazil,BRA,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.569
+Brazil,BRA,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.309
+Brazil,BRA,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.042
+Brazil,BRA,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,85.77
+Brazil,BRA,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,85.492
+Brazil,BRA,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,85.209
+Brazil,BRA,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,84.923
+Brazil,BRA,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,84.631
+Brazil,BRA,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,84.335
+Brazil,BRA,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,84.044
+Brazil,BRA,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,83.749
+Brazil,BRA,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,83.448
+Brazil,BRA,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,83.143
+Brazil,BRA,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.834
+Brazil,BRA,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.521
+Brazil,BRA,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.203
+Brazil,BRA,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.88
+Brazil,BRA,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.553
+Brazil,BRA,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.192
+Brazil,BRA,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.496
+Brazil,BRA,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.781
+Brazil,BRA,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.048
+Brazil,BRA,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.302
+Brazil,BRA,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.61
+Brazil,BRA,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.903
+Brazil,BRA,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.181
+Brazil,BRA,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.444
+Brazil,BRA,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.69
+Brazil,BRA,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.922
+Brazil,BRA,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.139
+Brazil,BRA,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.342
+Brazil,BRA,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.529
+Brazil,BRA,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.703
+Brazil,BRA,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.862
+Brazil,BRA,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.01
+Brazil,BRA,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.142
+Brazil,BRA,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.262
+Brazil,BRA,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.37
+Brazil,BRA,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.468
+Brazil,BRA,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.551
+Brazil,BRA,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.625
+Brazil,BRA,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.689
+Brazil,BRA,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.745
+Brazil,BRA,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.789
+Brazil,BRA,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.826
+Brazil,BRA,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.855
+Brazil,BRA,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.879
+Brazil,BRA,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.894
+Brazil,BRA,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.909
+Brazil,BRA,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.94
+Brazil,BRA,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.97
+Brazil,BRA,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.993
+Brazil,BRA,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.016
+Brazil,BRA,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.037
+Brazil,BRA,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.059
+Brazil,BRA,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.078
+Brazil,BRA,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.099
+Brazil,BRA,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.122
+Brazil,BRA,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.139
